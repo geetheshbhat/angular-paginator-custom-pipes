@@ -1,0 +1,4996 @@
+[{
+    "id": 1,
+    "book_id": 2767052,
+    "isbn": 439023483,
+    "authors": "Suzanne Collins",
+    "original_publication_year": 2008,
+    "title": "The Hunger Games (The Hunger Games, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 2,
+    "book_id": 3,
+    "isbn": 439554934,
+    "authors": "J.K. Rowling, Mary GrandPré",
+    "original_publication_year": 1997,
+    "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 3,
+    "book_id": 41865,
+    "isbn": 316015849,
+    "authors": "Stephenie Meyer",
+    "original_publication_year": 2005,
+    "title": "Twilight (Twilight, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 4,
+    "book_id": 2657,
+    "isbn": 61120081,
+    "authors": "Harper Lee",
+    "original_publication_year": 1960,
+    "title": "To Kill a Mockingbird",
+    "quantity": 2
+  },
+  {
+    "id": 5,
+    "book_id": 4671,
+    "isbn": 743273567,
+    "authors": "F. Scott Fitzgerald",
+    "original_publication_year": 1925,
+    "title": "The Great Gatsby",
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "book_id": 11870085,
+    "isbn": 525478817,
+    "authors": "John Green",
+    "original_publication_year": 2012,
+    "title": "The Fault in Our Stars",
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "book_id": 5907,
+    "isbn": 618260307,
+    "authors": "J.R.R. Tolkien",
+    "original_publication_year": 1937,
+    "title": "The Hobbit",
+    "quantity": 5
+  },
+  {
+    "id": 8,
+    "book_id": 5107,
+    "isbn": 316769177,
+    "authors": "J.D. Salinger",
+    "original_publication_year": 1951,
+    "title": "The Catcher in the Rye",
+    "quantity": 4
+  },
+  {
+    "id": 9,
+    "book_id": 960,
+    "isbn": 1416524797,
+    "authors": "Dan Brown",
+    "original_publication_year": 2000,
+    "title": "Angels & Demons  (Robert Langdon, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 10,
+    "book_id": 1885,
+    "isbn": 679783261,
+    "authors": "Jane Austen",
+    "original_publication_year": 1813,
+    "title": "Pride and Prejudice",
+    "quantity": 2
+  },
+  {
+    "id": 11,
+    "book_id": 77203,
+    "isbn": 1594480001,
+    "authors": "Khaled Hosseini",
+    "original_publication_year": 2003,
+    "title": "The Kite Runner",
+    "quantity": 1
+  },
+  {
+    "id": 12,
+    "book_id": 13335037,
+    "isbn": 62024035,
+    "authors": "Veronica Roth",
+    "original_publication_year": 2011,
+    "title": "Divergent (Divergent, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 13,
+    "book_id": 5470,
+    "isbn": 451524934,
+    "authors": "George Orwell, Erich Fromm, Celâl Üster",
+    "original_publication_year": 1949,
+    "title": 1984,
+    "quantity": 5
+  },
+  {
+    "id": 14,
+    "book_id": 7613,
+    "isbn": 452284244,
+    "authors": "George Orwell",
+    "original_publication_year": 1945,
+    "title": "Animal Farm",
+    "quantity": 4
+  },
+  {
+    "id": 15,
+    "book_id": 48855,
+    "isbn": 553296981,
+    "authors": "Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday",
+    "original_publication_year": 1947,
+    "title": "The Diary of a Young Girl",
+    "quantity": 3
+  },
+  {
+    "id": 16,
+    "book_id": 2429135,
+    "isbn": 307269752,
+    "authors": "Stieg Larsson, Reg Keeland",
+    "original_publication_year": 2005,
+    "title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 17,
+    "book_id": 6148028,
+    "isbn": 439023491,
+    "authors": "Suzanne Collins",
+    "original_publication_year": 2009,
+    "title": "Catching Fire (The Hunger Games, #2)",
+    "quantity": 1
+  },
+  {
+    "id": 18,
+    "book_id": 5,
+    "isbn": "043965548X",
+    "authors": "J.K. Rowling, Mary GrandPré, Rufus Beck",
+    "original_publication_year": 1999,
+    "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+    "quantity": 0
+  },
+  {
+    "id": 19,
+    "book_id": 34,
+    "isbn": 618346252,
+    "authors": "J.R.R. Tolkien",
+    "original_publication_year": 1954,
+    "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 20,
+    "book_id": 7260188,
+    "isbn": 439023513,
+    "authors": "Suzanne Collins",
+    "original_publication_year": 2010,
+    "title": "Mockingjay (The Hunger Games, #3)",
+    "quantity": 4
+  },
+  {
+    "id": 21,
+    "book_id": 2,
+    "isbn": 439358078,
+    "authors": "J.K. Rowling, Mary GrandPré",
+    "original_publication_year": 2003,
+    "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+    "quantity": 3
+  },
+  {
+    "id": 22,
+    "book_id": 12232938,
+    "isbn": 316166685,
+    "authors": "Alice Sebold",
+    "original_publication_year": 2002,
+    "title": "The Lovely Bones",
+    "quantity": 2
+  },
+  {
+    "id": 23,
+    "book_id": 15881,
+    "isbn": 439064864,
+    "authors": "J.K. Rowling, Mary GrandPré",
+    "original_publication_year": 1998,
+    "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+    "quantity": 1
+  },
+  {
+    "id": 24,
+    "book_id": 6,
+    "isbn": 439139600,
+    "authors": "J.K. Rowling, Mary GrandPré",
+    "original_publication_year": 2000,
+    "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+    "quantity": 0
+  },
+  {
+    "id": 25,
+    "book_id": 136251,
+    "isbn": 545010225,
+    "authors": "J.K. Rowling, Mary GrandPré",
+    "original_publication_year": 2007,
+    "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+    "quantity": 5
+  },
+  {
+    "id": 26,
+    "book_id": 968,
+    "isbn": 307277674,
+    "authors": "Dan Brown",
+    "original_publication_year": 2003,
+    "title": "The Da Vinci Code (Robert Langdon, #2)",
+    "quantity": 4
+  },
+  {
+    "id": 27,
+    "book_id": 1,
+    "isbn": 439785960,
+    "authors": "J.K. Rowling, Mary GrandPré",
+    "original_publication_year": 2005,
+    "title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+    "quantity": 3
+  },
+  {
+    "id": 28,
+    "book_id": 7624,
+    "isbn": 140283331,
+    "authors": "William Golding",
+    "original_publication_year": 1954,
+    "title": "Lord of the Flies",
+    "quantity": 2
+  },
+  {
+    "id": 29,
+    "book_id": 18135,
+    "isbn": 743477111,
+    "authors": "William Shakespeare, Robert           Jackson",
+    "original_publication_year": 1595,
+    "title": "Romeo and Juliet",
+    "quantity": 1
+  },
+  {
+    "id": 30,
+    "book_id": 8442457,
+    "isbn": 297859382,
+    "authors": "Gillian Flynn",
+    "original_publication_year": 2012,
+    "title": "Gone Girl",
+    "quantity": 0
+  },
+  {
+    "id": 31,
+    "book_id": 4667024,
+    "isbn": 399155341,
+    "authors": "Kathryn Stockett",
+    "original_publication_year": 2009,
+    "title": "The Help",
+    "quantity": 5
+  },
+  {
+    "id": 32,
+    "book_id": 890,
+    "isbn": 142000671,
+    "authors": "John Steinbeck",
+    "original_publication_year": 1937,
+    "title": "Of Mice and Men",
+    "quantity": 4
+  },
+  {
+    "id": 33,
+    "book_id": 930,
+    "isbn": 739326228,
+    "authors": "Arthur Golden",
+    "original_publication_year": 1997,
+    "title": "Memoirs of a Geisha",
+    "quantity": 3
+  },
+  {
+    "id": 34,
+    "book_id": 10818853,
+    "isbn": 1612130291,
+    "authors": "E.L. James",
+    "original_publication_year": 2011,
+    "title": "Fifty Shades of Grey (Fifty Shades, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 35,
+    "book_id": 865,
+    "isbn": 61122416,
+    "authors": "Paulo Coelho, Alan R. Clarke",
+    "original_publication_year": 1988,
+    "title": "The Alchemist",
+    "quantity": 1
+  },
+  {
+    "id": 36,
+    "book_id": 3636,
+    "isbn": 385732554,
+    "authors": "Lois Lowry",
+    "original_publication_year": 1993,
+    "title": "The Giver (The Giver, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 37,
+    "book_id": 100915,
+    "isbn": 60764899,
+    "authors": "C.S. Lewis",
+    "original_publication_year": 1950,
+    "title": "The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 38,
+    "book_id": 14050,
+    "isbn": 965818675,
+    "authors": "Audrey Niffenegger",
+    "original_publication_year": 2003,
+    "title": "The Time Traveler's Wife",
+    "quantity": 4
+  },
+  {
+    "id": 39,
+    "book_id": 13496,
+    "isbn": 553588486,
+    "authors": "George R.R. Martin",
+    "original_publication_year": 1996,
+    "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 40,
+    "book_id": 19501,
+    "isbn": 143038419,
+    "authors": "Elizabeth Gilbert",
+    "original_publication_year": 2006,
+    "title": "Eat, Pray, Love",
+    "quantity": 2
+  },
+  {
+    "id": 41,
+    "book_id": 28187,
+    "isbn": 786838655,
+    "authors": "Rick Riordan",
+    "original_publication_year": 2005,
+    "title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 42,
+    "book_id": 1934,
+    "isbn": 451529308,
+    "authors": "Louisa May Alcott",
+    "original_publication_year": 1868,
+    "title": "Little Women (Little Women, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 43,
+    "book_id": 10210,
+    "isbn": 142437204,
+    "authors": "Charlotte Brontë, Michael Mason",
+    "original_publication_year": 1847,
+    "title": "Jane Eyre",
+    "quantity": 5
+  },
+  {
+    "id": 44,
+    "book_id": 15931,
+    "isbn": 553816713,
+    "authors": "Nicholas Sparks",
+    "original_publication_year": 1996,
+    "title": "The Notebook (The Notebook, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 45,
+    "book_id": 4214,
+    "isbn": 770430074,
+    "authors": "Yann Martel",
+    "original_publication_year": 2001,
+    "title": "Life of Pi",
+    "quantity": 3
+  },
+  {
+    "id": 46,
+    "book_id": 43641,
+    "isbn": 1565125606,
+    "authors": "Sara Gruen",
+    "original_publication_year": 2006,
+    "title": "Water for Elephants",
+    "quantity": 2
+  },
+  {
+    "id": 47,
+    "book_id": 19063,
+    "isbn": 375831002,
+    "authors": "Markus Zusak",
+    "original_publication_year": 2005,
+    "title": "The Book Thief",
+    "quantity": 1
+  },
+  {
+    "id": 48,
+    "book_id": 4381,
+    "isbn": 307347974,
+    "authors": "Ray Bradbury",
+    "original_publication_year": 1953,
+    "title": "Fahrenheit 451",
+    "quantity": 0
+  },
+  {
+    "id": 49,
+    "book_id": 49041,
+    "isbn": 316160199,
+    "authors": "Stephenie Meyer",
+    "original_publication_year": 2006,
+    "title": "New Moon (Twilight, #2)",
+    "quantity": 5
+  },
+  {
+    "id": 50,
+    "book_id": 30119,
+    "isbn": 60513039,
+    "authors": "Shel Silverstein",
+    "original_publication_year": 1974,
+    "title": "Where the Sidewalk Ends",
+    "quantity": 4
+  },
+  {
+    "id": 51,
+    "book_id": 256683,
+    "isbn": 1416914285,
+    "authors": "Cassandra Clare",
+    "original_publication_year": 2007,
+    "title": "City of Bones (The Mortal Instruments, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 52,
+    "book_id": 428263,
+    "isbn": 316160202,
+    "authors": "Stephenie Meyer",
+    "original_publication_year": 2007,
+    "title": "Eclipse (Twilight, #3)",
+    "quantity": 2
+  },
+  {
+    "id": 53,
+    "book_id": 113436,
+    "isbn": 375826696,
+    "authors": "Christopher Paolini",
+    "original_publication_year": 2002,
+    "title": "Eragon (The Inheritance Cycle, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 54,
+    "book_id": 11,
+    "isbn": 345391802,
+    "authors": "Douglas Adams",
+    "original_publication_year": 1979,
+    "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 55,
+    "book_id": 5129,
+    "isbn": 60929871,
+    "authors": "Aldous Huxley",
+    "original_publication_year": 1932,
+    "title": "Brave New World",
+    "quantity": 5
+  },
+  {
+    "id": 56,
+    "book_id": 1162543,
+    "isbn": "031606792X",
+    "authors": "Stephenie Meyer",
+    "original_publication_year": 2008,
+    "title": "Breaking Dawn (Twilight, #4)",
+    "quantity": 4
+  },
+  {
+    "id": 57,
+    "book_id": 37435,
+    "isbn": 142001740,
+    "authors": "Sue Monk Kidd",
+    "original_publication_year": 2001,
+    "title": "The Secret Life of Bees",
+    "quantity": 3
+  },
+  {
+    "id": 58,
+    "book_id": 2956,
+    "isbn": 142437174,
+    "authors": "Mark Twain, John Seelye, Guy Cardwell",
+    "original_publication_year": 1884,
+    "title": "The Adventures of Huckleberry Finn",
+    "quantity": 2
+  },
+  {
+    "id": 59,
+    "book_id": 24178,
+    "isbn": 64410935,
+    "authors": "E.B. White, Garth Williams, Rosemary Wells",
+    "original_publication_year": 1952,
+    "title": "Charlotte's Web",
+    "quantity": 1
+  },
+  {
+    "id": 60,
+    "book_id": 1618,
+    "isbn": 1400032717,
+    "authors": "Mark Haddon",
+    "original_publication_year": 2003,
+    "title": "The Curious Incident of the Dog in the Night-Time",
+    "quantity": 0
+  },
+  {
+    "id": 61,
+    "book_id": 22557272,
+    "isbn": 1594633665,
+    "authors": "Paula Hawkins",
+    "original_publication_year": 2015,
+    "title": "The Girl on the Train",
+    "quantity": 5
+  },
+  {
+    "id": 62,
+    "book_id": 119322,
+    "isbn": 679879242,
+    "authors": "Philip Pullman",
+    "original_publication_year": 1995,
+    "title": "The Golden Compass (His Dark Materials, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 63,
+    "book_id": 6185,
+    "isbn": 393978893,
+    "authors": "Emily Brontë, Richard J. Dunn",
+    "original_publication_year": 1847,
+    "title": "Wuthering Heights",
+    "quantity": 3
+  },
+  {
+    "id": 64,
+    "book_id": 10917,
+    "isbn": 743454537,
+    "authors": "Jodi Picoult",
+    "original_publication_year": 2004,
+    "title": "My Sister's Keeper",
+    "quantity": 2
+  },
+  {
+    "id": 65,
+    "book_id": 4981,
+    "isbn": 385333846,
+    "authors": "Kurt Vonnegut Jr.",
+    "original_publication_year": 1969,
+    "title": "Slaughterhouse-Five",
+    "quantity": 1
+  },
+  {
+    "id": 66,
+    "book_id": 18405,
+    "isbn": 446675539,
+    "authors": "Margaret Mitchell",
+    "original_publication_year": 1936,
+    "title": "Gone with the Wind",
+    "quantity": 0
+  },
+  {
+    "id": 67,
+    "book_id": 128029,
+    "isbn": 1594489505,
+    "authors": "Khaled Hosseini",
+    "original_publication_year": 2007,
+    "title": "A Thousand Splendid Suns",
+    "quantity": 5
+  },
+  {
+    "id": 68,
+    "book_id": 22628,
+    "isbn": 671027344,
+    "authors": "Stephen Chbosky",
+    "original_publication_year": 1999,
+    "title": "The Perks of Being a Wallflower",
+    "quantity": 4
+  },
+  {
+    "id": 69,
+    "book_id": 11735983,
+    "isbn": 7442912,
+    "authors": "Veronica Roth",
+    "original_publication_year": 2012,
+    "title": "Insurgent (Divergent, #2)",
+    "quantity": 3
+  },
+  {
+    "id": 70,
+    "book_id": 375802,
+    "isbn": 812550706,
+    "authors": "Orson Scott Card",
+    "original_publication_year": 1985,
+    "title": "Ender's Game (Ender's Saga, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 71,
+    "book_id": 18490,
+    "isbn": 141439475,
+    "authors": "Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle",
+    "original_publication_year": 1818,
+    "title": "Frankenstein",
+    "quantity": 1
+  },
+  {
+    "id": 72,
+    "book_id": 11588,
+    "isbn": 450040186,
+    "authors": "Stephen King",
+    "original_publication_year": 1977,
+    "title": "The Shining (The Shining #1)",
+    "quantity": 0
+  },
+  {
+    "id": 73,
+    "book_id": 1656001,
+    "isbn": 316068047,
+    "authors": "Stephenie Meyer",
+    "original_publication_year": 2008,
+    "title": "The Host (The Host, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 74,
+    "book_id": 99561,
+    "isbn": 142402516,
+    "authors": "John Green",
+    "original_publication_year": 2005,
+    "title": "Looking for Alaska",
+    "quantity": 4
+  },
+  {
+    "id": 75,
+    "book_id": 227443,
+    "isbn": "014028009X",
+    "authors": "Helen Fielding",
+    "original_publication_year": 1996,
+    "title": "Bridget Jones's Diary (Bridget Jones, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 76,
+    "book_id": 14935,
+    "isbn": 141439661,
+    "authors": "Jane Austen, Tony Tanner, Ros Ballaster",
+    "original_publication_year": 1811,
+    "title": "Sense and Sensibility",
+    "quantity": 2
+  },
+  {
+    "id": 77,
+    "book_id": 38709,
+    "isbn": 439244196,
+    "authors": "Louis Sachar, Louis Sachar",
+    "original_publication_year": 1998,
+    "title": "Holes (Holes, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 78,
+    "book_id": 5139,
+    "isbn": 307275558,
+    "authors": "Lauren Weisberger",
+    "original_publication_year": 2003,
+    "title": "The Devil Wears Prada (The Devil Wears Prada, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 79,
+    "book_id": 1381,
+    "isbn": 143039954,
+    "authors": "Homer, Robert Fagles, E.V. Rieu, Frédéric Mugler, Bernard Knox",
+    "original_publication_year": -720,
+    "title": "The Odyssey",
+    "quantity": 5
+  },
+  {
+    "id": 80,
+    "book_id": 157993,
+    "isbn": 156012197,
+    "authors": "Antoine de Saint-Exupéry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta",
+    "original_publication_year": 1946,
+    "title": "The Little Prince",
+    "quantity": 4
+  },
+  {
+    "id": 81,
+    "book_id": 7445,
+    "isbn": "074324754X",
+    "authors": "Jeannette Walls",
+    "original_publication_year": 2005,
+    "title": "The Glass Castle",
+    "quantity": 3
+  },
+  {
+    "id": 82,
+    "book_id": 1845,
+    "isbn": 385486804,
+    "authors": "Jon Krakauer",
+    "original_publication_year": 1996,
+    "title": "Into the Wild",
+    "quantity": 2
+  },
+  {
+    "id": 83,
+    "book_id": 1953,
+    "isbn": 141439602,
+    "authors": "Charles Dickens, Richard Maxwell, Hablot Knight Browne",
+    "original_publication_year": 1859,
+    "title": "A Tale of Two Cities",
+    "quantity": 1
+  },
+  {
+    "id": 84,
+    "book_id": 7677,
+    "isbn": "030734813X",
+    "authors": "Michael Crichton",
+    "original_publication_year": 1990,
+    "title": "Jurassic Park (Jurassic Park, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 85,
+    "book_id": 370493,
+    "isbn": 60256656,
+    "authors": "Shel Silverstein",
+    "original_publication_year": 1964,
+    "title": "The Giving Tree",
+    "quantity": 5
+  },
+  {
+    "id": 86,
+    "book_id": 32542,
+    "isbn": 385338600,
+    "authors": "John Grisham",
+    "original_publication_year": 1989,
+    "title": "A Time to Kill",
+    "quantity": 4
+  },
+  {
+    "id": 87,
+    "book_id": 1617,
+    "isbn": 374500010,
+    "authors": "Elie Wiesel, Marion Wiesel",
+    "original_publication_year": 1958,
+    "title": "Night (The Night Trilogy #1)",
+    "quantity": 3
+  },
+  {
+    "id": 88,
+    "book_id": 6442769,
+    "isbn": "014241493X",
+    "authors": "John Green",
+    "original_publication_year": 2008,
+    "title": "Paper Towns",
+    "quantity": 2
+  },
+  {
+    "id": 89,
+    "book_id": 21787,
+    "isbn": 345418263,
+    "authors": "William Goldman",
+    "original_publication_year": 1973,
+    "title": "The Princess Bride",
+    "quantity": 1
+  },
+  {
+    "id": 90,
+    "book_id": 231804,
+    "isbn": "014038572X",
+    "authors": "S.E. Hinton",
+    "original_publication_year": 1967,
+    "title": "The Outsiders",
+    "quantity": 0
+  },
+  {
+    "id": 91,
+    "book_id": 6186357,
+    "isbn": 385737947,
+    "authors": "James Dashner",
+    "original_publication_year": 2009,
+    "title": "The Maze Runner (Maze Runner, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 92,
+    "book_id": 1202,
+    "isbn": 61234001,
+    "authors": "Steven D. Levitt, Stephen J. Dubner",
+    "original_publication_year": 2005,
+    "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 93,
+    "book_id": 2998,
+    "isbn": 517189607,
+    "authors": "Frances Hodgson Burnett",
+    "original_publication_year": 1911,
+    "title": "The Secret Garden",
+    "quantity": 3
+  },
+  {
+    "id": 94,
+    "book_id": 320,
+    "isbn": 60531045,
+    "authors": "Gabriel García Márquez, Gregory Rabassa",
+    "original_publication_year": 1967,
+    "title": "One Hundred Years of Solitude",
+    "quantity": 2
+  },
+  {
+    "id": 95,
+    "book_id": 5297,
+    "isbn": 375751513,
+    "authors": "Oscar Wilde, Jeffrey Eugenides",
+    "original_publication_year": 1891,
+    "title": "The Picture of Dorian Gray",
+    "quantity": 1
+  },
+  {
+    "id": 96,
+    "book_id": 13536860,
+    "isbn": 345803507,
+    "authors": "E.L. James",
+    "original_publication_year": 2012,
+    "title": "Fifty Shades Freed (Fifty Shades, #3)",
+    "quantity": 0
+  },
+  {
+    "id": 97,
+    "book_id": 17245,
+    "isbn": 393970124,
+    "authors": "Bram Stoker, Nina Auerbach, David J. Skal",
+    "original_publication_year": 1897,
+    "title": "Dracula",
+    "quantity": 5
+  },
+  {
+    "id": 98,
+    "book_id": 5060378,
+    "isbn": 307269981,
+    "authors": "Stieg Larsson, Reg Keeland",
+    "original_publication_year": 2006,
+    "title": "The Girl Who Played with Fire (Millennium, #2)",
+    "quantity": 4
+  },
+  {
+    "id": 99,
+    "book_id": 11857408,
+    "isbn": 1612130585,
+    "authors": "E.L. James",
+    "original_publication_year": 2011,
+    "title": "Fifty Shades Darker (Fifty Shades, #2)",
+    "quantity": 3
+  },
+  {
+    "id": 100,
+    "book_id": 7244,
+    "isbn": 60786507,
+    "authors": "Barbara Kingsolver",
+    "original_publication_year": 1998,
+    "title": "The Poisonwood Bible",
+    "quantity": 2
+  },
+  {
+    "id": 101,
+    "book_id": 4137,
+    "isbn": 349113912,
+    "authors": "David Sedaris",
+    "original_publication_year": 2000,
+    "title": "Me Talk Pretty One Day",
+    "quantity": 1
+  },
+  {
+    "id": 102,
+    "book_id": 19543,
+    "isbn": 99408392,
+    "authors": "Maurice Sendak",
+    "original_publication_year": 1963,
+    "title": "Where the Wild Things Are",
+    "quantity": 0
+  },
+  {
+    "id": 103,
+    "book_id": 7126,
+    "isbn": 140449264,
+    "authors": "Alexandre Dumas, Robin Buss",
+    "original_publication_year": 1844,
+    "title": "The Count of Monte Cristo",
+    "quantity": 5
+  },
+  {
+    "id": 104,
+    "book_id": 6288,
+    "isbn": 307265439,
+    "authors": "Cormac McCarthy",
+    "original_publication_year": 2006,
+    "title": "The Road",
+    "quantity": 4
+  },
+  {
+    "id": 105,
+    "book_id": 18710190,
+    "isbn": 7524277,
+    "authors": "Veronica Roth",
+    "original_publication_year": 2013,
+    "title": "Allegiant (Divergent, #3)",
+    "quantity": 3
+  },
+  {
+    "id": 106,
+    "book_id": 9418327,
+    "isbn": "",
+    "authors": "Tina Fey",
+    "original_publication_year": 2011,
+    "title": "Bossypants",
+    "quantity": 2
+  },
+  {
+    "id": 107,
+    "book_id": 3473,
+    "isbn": 446693804,
+    "authors": "Nicholas Sparks",
+    "original_publication_year": 1999,
+    "title": "A Walk to Remember",
+    "quantity": 1
+  },
+  {
+    "id": 108,
+    "book_id": 9416,
+    "isbn": 440241413,
+    "authors": "Sophie Kinsella",
+    "original_publication_year": 2000,
+    "title": "Confessions of a Shopaholic (Shopaholic, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 109,
+    "book_id": 24280,
+    "isbn": 451525264,
+    "authors": "Victor Hugo, Lee Fahnestock, Norman MacAfee",
+    "original_publication_year": 1862,
+    "title": "Les Misérables",
+    "quantity": 5
+  },
+  {
+    "id": 110,
+    "book_id": 10572,
+    "isbn": 553381695,
+    "authors": "George R.R. Martin",
+    "original_publication_year": 1998,
+    "title": "A Clash of Kings  (A Song of Ice and Fire, #2)",
+    "quantity": 4
+  },
+  {
+    "id": 111,
+    "book_id": 10441,
+    "isbn": 143037145,
+    "authors": "Kim Edwards",
+    "original_publication_year": 2005,
+    "title": "The Memory Keeper's Daughter",
+    "quantity": 3
+  },
+  {
+    "id": 112,
+    "book_id": 15507958,
+    "isbn": 670026603,
+    "authors": "Jojo Moyes",
+    "original_publication_year": 2012,
+    "title": "Me Before You (Me Before You, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 113,
+    "book_id": 168668,
+    "isbn": 684833395,
+    "authors": "Joseph Heller",
+    "original_publication_year": 1961,
+    "title": "Catch-22",
+    "quantity": 1
+  },
+  {
+    "id": 114,
+    "book_id": 6900,
+    "isbn": 751529818,
+    "authors": "Mitch Albom, Saulius Dagys",
+    "original_publication_year": 1997,
+    "title": "Tuesdays with Morrie",
+    "quantity": 0
+  },
+  {
+    "id": 115,
+    "book_id": 2187,
+    "isbn": 312422156,
+    "authors": "Jeffrey Eugenides",
+    "original_publication_year": 2002,
+    "title": "Middlesex",
+    "quantity": 5
+  },
+  {
+    "id": 116,
+    "book_id": 24583,
+    "isbn": 143039563,
+    "authors": "Mark Twain, Guy Cardwell, John Seelye",
+    "original_publication_year": 1876,
+    "title": "The Adventures of Tom Sawyer",
+    "quantity": 4
+  },
+  {
+    "id": 117,
+    "book_id": 18131,
+    "isbn": 440498058,
+    "authors": "Madeleine L'Engle",
+    "original_publication_year": 1962,
+    "title": "A Wrinkle in Time (A Wrinkle in Time Quintet, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 118,
+    "book_id": 7763,
+    "isbn": 143038095,
+    "authors": "Amy Tan",
+    "original_publication_year": 1989,
+    "title": "The Joy Luck Club",
+    "quantity": 2
+  },
+  {
+    "id": 119,
+    "book_id": 38447,
+    "isbn": "038549081X",
+    "authors": "Margaret Atwood",
+    "original_publication_year": 1985,
+    "title": "The Handmaid's Tale",
+    "quantity": 1
+  },
+  {
+    "id": 120,
+    "book_id": 452306,
+    "isbn": 385729332,
+    "authors": "Ann Brashares",
+    "original_publication_year": 2001,
+    "title": "The Sisterhood of the Traveling Pants (Sisterhood, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 121,
+    "book_id": 7604,
+    "isbn": "",
+    "authors": "Vladimir Nabokov, Craig Raine",
+    "original_publication_year": 1955,
+    "title": "Lolita",
+    "quantity": 5
+  },
+  {
+    "id": 122,
+    "book_id": 37442,
+    "isbn": 60987103,
+    "authors": "Gregory Maguire, Douglas Smith",
+    "original_publication_year": 1995,
+    "title": "Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 123,
+    "book_id": 5358,
+    "isbn": 582418275,
+    "authors": "John Grisham",
+    "original_publication_year": 1991,
+    "title": "The Firm (Penguin Readers, Level 5)",
+    "quantity": 3
+  },
+  {
+    "id": 124,
+    "book_id": 7937843,
+    "isbn": 316098337,
+    "authors": "Emma Donoghue",
+    "original_publication_year": 2010,
+    "title": "Room",
+    "quantity": 2
+  },
+  {
+    "id": 125,
+    "book_id": 1420,
+    "isbn": 521618746,
+    "authors": "William Shakespeare, Richard Andrews, Rex Gibson",
+    "original_publication_year": 1600,
+    "title": "Hamlet",
+    "quantity": 1
+  },
+  {
+    "id": 126,
+    "book_id": 234225,
+    "isbn": 340839937,
+    "authors": "Frank Herbert",
+    "original_publication_year": 1965,
+    "title": "Dune (Dune Chronicles #1)",
+    "quantity": 0
+  },
+  {
+    "id": 127,
+    "book_id": 2612,
+    "isbn": 316346624,
+    "authors": "Malcolm Gladwell",
+    "original_publication_year": 2000,
+    "title": "The Tipping Point: How Little Things Can Make a Big Difference",
+    "quantity": 5
+  },
+  {
+    "id": 128,
+    "book_id": 11084145,
+    "isbn": 1451648537,
+    "authors": "Walter Isaacson",
+    "original_publication_year": 2011,
+    "title": "Steve Jobs",
+    "quantity": 4
+  },
+  {
+    "id": 129,
+    "book_id": 332613,
+    "isbn": 451163966,
+    "authors": "Ken Kesey",
+    "original_publication_year": 1962,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "quantity": 3
+  },
+  {
+    "id": 130,
+    "book_id": 2165,
+    "isbn": 684830493,
+    "authors": "Ernest Hemingway",
+    "original_publication_year": 1952,
+    "title": "The Old Man and the Sea",
+    "quantity": 2
+  },
+  {
+    "id": 131,
+    "book_id": 4395,
+    "isbn": 142000663,
+    "authors": "John Steinbeck",
+    "original_publication_year": 1939,
+    "title": "The Grapes of Wrath",
+    "quantity": 1
+  },
+  {
+    "id": 132,
+    "book_id": 3431,
+    "isbn": 1401308589,
+    "authors": "Mitch Albom",
+    "original_publication_year": 2003,
+    "title": "The Five People You Meet in Heaven",
+    "quantity": 0
+  },
+  {
+    "id": 133,
+    "book_id": 8127,
+    "isbn": 451528824,
+    "authors": "L.M. Montgomery",
+    "original_publication_year": 1908,
+    "title": "Anne of Green Gables (Anne of Green Gables, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 134,
+    "book_id": 3777732,
+    "isbn": 1416914307,
+    "authors": "Cassandra Clare",
+    "original_publication_year": 2009,
+    "title": "City of Glass (The Mortal Instruments, #3)",
+    "quantity": 4
+  },
+  {
+    "id": 135,
+    "book_id": 62291,
+    "isbn": "055357342X",
+    "authors": "George R.R. Martin",
+    "original_publication_year": 2000,
+    "title": "A Storm of Swords (A Song of Ice and Fire, #3)",
+    "quantity": 3
+  },
+  {
+    "id": 136,
+    "book_id": 137791,
+    "isbn": "006075995X",
+    "authors": "Rebecca Wells",
+    "original_publication_year": 1996,
+    "title": "Divine Secrets of the Ya-Ya Sisterhood",
+    "quantity": 2
+  },
+  {
+    "id": 137,
+    "book_id": 10964,
+    "isbn": 440242940,
+    "authors": "Diana Gabaldon",
+    "original_publication_year": 1991,
+    "title": "Outlander (Outlander, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 138,
+    "book_id": 12296,
+    "isbn": 142437263,
+    "authors": "Nathaniel Hawthorne, Thomas E. Connolly, Nina Baym",
+    "original_publication_year": 1850,
+    "title": "The Scarlet Letter",
+    "quantity": 0
+  },
+  {
+    "id": 139,
+    "book_id": 9460487,
+    "isbn": 1594744769,
+    "authors": "Ransom Riggs",
+    "original_publication_year": 2011,
+    "title": "Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 140,
+    "book_id": 6892870,
+    "isbn": "030726999X",
+    "authors": "Stieg Larsson, Reg Keeland",
+    "original_publication_year": 2007,
+    "title": "The Girl Who Kicked the Hornet's Nest (Millennium, #3)",
+    "quantity": 4
+  },
+  {
+    "id": 141,
+    "book_id": 18007564,
+    "isbn": 804139024,
+    "authors": "Andy Weir",
+    "original_publication_year": 2012,
+    "title": "The Martian",
+    "quantity": 3
+  },
+  {
+    "id": 142,
+    "book_id": 5043,
+    "isbn": 451207149,
+    "authors": "Ken Follett",
+    "original_publication_year": 1989,
+    "title": "The Pillars of the Earth (The Kingsbridge Series, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 143,
+    "book_id": 18143977,
+    "isbn": 1476746583,
+    "authors": "Anthony Doerr",
+    "original_publication_year": 2014,
+    "title": "All the Light We Cannot See",
+    "quantity": 1
+  },
+  {
+    "id": 144,
+    "book_id": 8664353,
+    "isbn": 1400064163,
+    "authors": "Laura Hillenbrand",
+    "original_publication_year": 2010,
+    "title": "Unbroken: A World War II Story of Survival, Resilience, and Redemption",
+    "quantity": 0
+  },
+  {
+    "id": 145,
+    "book_id": 976,
+    "isbn": 671027387,
+    "authors": "Dan Brown",
+    "original_publication_year": 2001,
+    "title": "Deception Point",
+    "quantity": 5
+  },
+  {
+    "id": 146,
+    "book_id": 17333223,
+    "isbn": 316055433,
+    "authors": "Donna Tartt",
+    "original_publication_year": 2013,
+    "title": "The Goldfinch",
+    "quantity": 4
+  },
+  {
+    "id": 147,
+    "book_id": 1217100,
+    "isbn": 1595141715,
+    "authors": "Jay Asher",
+    "original_publication_year": 2007,
+    "title": "Thirteen Reasons Why",
+    "quantity": 3
+  },
+  {
+    "id": 148,
+    "book_id": 2865,
+    "isbn": 452287022,
+    "authors": "Tracy Chevalier",
+    "original_publication_year": 1999,
+    "title": "Girl with a Pearl Earring",
+    "quantity": 2
+  },
+  {
+    "id": 149,
+    "book_id": 4374400,
+    "isbn": 525421033,
+    "authors": "Gayle Forman",
+    "original_publication_year": 2009,
+    "title": "If I Stay (If I Stay, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 150,
+    "book_id": 4989,
+    "isbn": 312353766,
+    "authors": "Anita Diamant",
+    "original_publication_year": 1997,
+    "title": "The Red Tent",
+    "quantity": 0
+  },
+  {
+    "id": 151,
+    "book_id": 28186,
+    "isbn": 786856866,
+    "authors": "Rick Riordan",
+    "original_publication_year": 2006,
+    "title": "The Sea of Monsters (Percy Jackson and the Olympians, #2)",
+    "quantity": 5
+  },
+  {
+    "id": 152,
+    "book_id": 5526,
+    "isbn": 446528056,
+    "authors": "Nicholas Sparks",
+    "original_publication_year": 2006,
+    "title": "Dear John",
+    "quantity": 4
+  },
+  {
+    "id": 153,
+    "book_id": 1582996,
+    "isbn": 1416914293,
+    "authors": "Cassandra Clare",
+    "original_publication_year": 2008,
+    "title": "City of Ashes (The Mortal Instruments, #2)",
+    "quantity": 3
+  },
+  {
+    "id": 154,
+    "book_id": 8852,
+    "isbn": 743477103,
+    "authors": "William Shakespeare",
+    "original_publication_year": 1606,
+    "title": "Macbeth",
+    "quantity": 2
+  },
+  {
+    "id": 155,
+    "book_id": 15241,
+    "isbn": 618346260,
+    "authors": "J.R.R. Tolkien",
+    "original_publication_year": 1954,
+    "title": "The Two Towers (The Lord of the Rings, #2)",
+    "quantity": 1
+  },
+  {
+    "id": 156,
+    "book_id": 42156,
+    "isbn": "031232118X",
+    "authors": "Emily Giffin",
+    "original_publication_year": 2004,
+    "title": "Something Borrowed (Darcy & Rachel, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 157,
+    "book_id": 23772,
+    "isbn": 394800168,
+    "authors": "Dr. Seuss, לאה נאור",
+    "original_publication_year": 1960,
+    "title": "Green Eggs and Ham",
+    "quantity": 5
+  },
+  {
+    "id": 158,
+    "book_id": 6310,
+    "isbn": 142403881,
+    "authors": "Roald Dahl, Quentin Blake",
+    "original_publication_year": 1964,
+    "title": "Charlie and the Chocolate Factory (Charlie Bucket, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 159,
+    "book_id": 2120932,
+    "isbn": 1423101464,
+    "authors": "Rick Riordan",
+    "original_publication_year": 2008,
+    "title": "The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",
+    "quantity": 3
+  },
+  {
+    "id": 160,
+    "book_id": 2623,
+    "isbn": 192833596,
+    "authors": "Charles Dickens",
+    "original_publication_year": 1860,
+    "title": "Great Expectations",
+    "quantity": 2
+  },
+  {
+    "id": 161,
+    "book_id": 18512,
+    "isbn": 345339738,
+    "authors": "J.R.R. Tolkien",
+    "original_publication_year": 1955,
+    "title": "The Return of the King (The Lord of the Rings, #3)",
+    "quantity": 1
+  },
+  {
+    "id": 162,
+    "book_id": 49552,
+    "isbn": "",
+    "authors": "Albert Camus, Matthew    Ward",
+    "original_publication_year": 1942,
+    "title": "The Stranger",
+    "quantity": 0
+  },
+  {
+    "id": 163,
+    "book_id": 7736182,
+    "isbn": "142311339X",
+    "authors": "Rick Riordan",
+    "original_publication_year": 2010,
+    "title": "The Lost Hero (The Heroes of Olympus, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 164,
+    "book_id": 15745753,
+    "isbn": 1250012570,
+    "authors": "Rainbow Rowell",
+    "original_publication_year": 2013,
+    "title": "Eleanor & Park",
+    "quantity": 4
+  },
+  {
+    "id": 165,
+    "book_id": 13497,
+    "isbn": "055358202X",
+    "authors": "George R.R. Martin",
+    "original_publication_year": 2005,
+    "title": "A Feast for Crows (A Song of Ice and Fire, #4)",
+    "quantity": 3
+  },
+  {
+    "id": 166,
+    "book_id": 7735333,
+    "isbn": 525423648,
+    "authors": "Ally Condie",
+    "original_publication_year": 2010,
+    "title": "Matched (Matched, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 167,
+    "book_id": 4407,
+    "isbn": 747263744,
+    "authors": "Neil Gaiman",
+    "original_publication_year": 2001,
+    "title": "American Gods (American Gods, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 168,
+    "book_id": 149267,
+    "isbn": 385199570,
+    "authors": "Stephen King, Bernie Wrightson",
+    "original_publication_year": 1978,
+    "title": "The Stand",
+    "quantity": 0
+  },
+  {
+    "id": 169,
+    "book_id": 6400090,
+    "isbn": 446547565,
+    "authors": "Nicholas Sparks",
+    "original_publication_year": 2008,
+    "title": "The Last Song",
+    "quantity": 5
+  },
+  {
+    "id": 170,
+    "book_id": 11125,
+    "isbn": 552151696,
+    "authors": "Dan Brown",
+    "original_publication_year": 1998,
+    "title": "Digital Fortress",
+    "quantity": 4
+  },
+  {
+    "id": 171,
+    "book_id": 6969,
+    "isbn": 141439580,
+    "authors": "Jane Austen, Fiona Stafford",
+    "original_publication_year": 1815,
+    "title": "Emma",
+    "quantity": 3
+  },
+  {
+    "id": 172,
+    "book_id": 15823480,
+    "isbn": 345803922,
+    "authors": "Leo Tolstoy, Louise Maude, Leo Tolstoj, Aylmer Maude",
+    "original_publication_year": 1877,
+    "title": "Anna Karenina",
+    "quantity": 2
+  },
+  {
+    "id": 173,
+    "book_id": 227463,
+    "isbn": 393312836,
+    "authors": "Anthony Burgess",
+    "original_publication_year": 1962,
+    "title": "A Clockwork Orange",
+    "quantity": 1
+  },
+  {
+    "id": 174,
+    "book_id": 1812457,
+    "isbn": 964729237,
+    "authors": "William Paul Young",
+    "original_publication_year": 2007,
+    "title": "The Shack",
+    "quantity": 0
+  },
+  {
+    "id": 175,
+    "book_id": 4502507,
+    "isbn": 739380338,
+    "authors": "Rick Riordan",
+    "original_publication_year": 2009,
+    "title": "The Last Olympian (Percy Jackson and the Olympians, #5)",
+    "quantity": 5
+  },
+  {
+    "id": 176,
+    "book_id": 18342,
+    "isbn": 451169514,
+    "authors": "Stephen King",
+    "original_publication_year": 1986,
+    "title": "It",
+    "quantity": 4
+  },
+  {
+    "id": 177,
+    "book_id": 7144,
+    "isbn": 143058142,
+    "authors": "Fyodor Dostoyevsky, David McDuff",
+    "original_publication_year": 1866,
+    "title": "Crime and Punishment",
+    "quantity": 3
+  },
+  {
+    "id": 178,
+    "book_id": 6514,
+    "isbn": 61148512,
+    "authors": "Sylvia Plath",
+    "original_publication_year": 1963,
+    "title": "The Bell Jar",
+    "quantity": 2
+  },
+  {
+    "id": 179,
+    "book_id": 252577,
+    "isbn": 7205236,
+    "authors": "Frank McCourt",
+    "original_publication_year": 1996,
+    "title": "Angela's Ashes (Frank McCourt, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 180,
+    "book_id": 52036,
+    "isbn": 553208845,
+    "authors": "Hermann Hesse, Hilda Rosner",
+    "original_publication_year": 1922,
+    "title": "Siddhartha",
+    "quantity": 0
+  },
+  {
+    "id": 181,
+    "book_id": 168642,
+    "isbn": 679745580,
+    "authors": "Truman Capote",
+    "original_publication_year": 1965,
+    "title": "In Cold Blood",
+    "quantity": 5
+  },
+  {
+    "id": 182,
+    "book_id": 6304335,
+    "isbn": 316042676,
+    "authors": "Kami Garcia, Margaret Stohl",
+    "original_publication_year": 2009,
+    "title": "Beautiful Creatures (Caster Chronicles, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 183,
+    "book_id": 7171637,
+    "isbn": 1416975861,
+    "authors": "Cassandra Clare",
+    "original_publication_year": 2010,
+    "title": "Clockwork Angel (The Infernal Devices, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 184,
+    "book_id": 39988,
+    "isbn": 141301066,
+    "authors": "Roald Dahl, Quentin Blake",
+    "original_publication_year": 1988,
+    "title": "Matilda",
+    "quantity": 2
+  },
+  {
+    "id": 185,
+    "book_id": 9361589,
+    "isbn": 385534639,
+    "authors": "Erin Morgenstern",
+    "original_publication_year": 2011,
+    "title": "The Night Circus",
+    "quantity": 1
+  },
+  {
+    "id": 186,
+    "book_id": 37470,
+    "isbn": 743227441,
+    "authors": "Philippa Gregory",
+    "original_publication_year": 2001,
+    "title": "The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",
+    "quantity": 0
+  },
+  {
+    "id": 187,
+    "book_id": 24770,
+    "isbn": 689865384,
+    "authors": "Scott Westerfeld",
+    "original_publication_year": 2005,
+    "title": "Uglies (Uglies, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 188,
+    "book_id": 10664113,
+    "isbn": "",
+    "authors": "George R.R. Martin",
+    "original_publication_year": 2011,
+    "title": "A Dance with Dragons (A Song of Ice and Fire, #5)",
+    "quantity": 4
+  },
+  {
+    "id": 189,
+    "book_id": 33,
+    "isbn": 618640150,
+    "authors": "J.R.R. Tolkien",
+    "original_publication_year": 1955,
+    "title": "The Lord of the Rings (The Lord of the Rings, #1-3)",
+    "quantity": 3
+  },
+  {
+    "id": 190,
+    "book_id": 12262741,
+    "isbn": 307592731,
+    "authors": "Cheryl Strayed",
+    "original_publication_year": 2012,
+    "title": "Wild: From Lost to Found on the Pacific Crest Trail",
+    "quantity": 2
+  },
+  {
+    "id": 191,
+    "book_id": 472331,
+    "isbn": 930289234,
+    "authors": "Alan Moore, Dave Gibbons, John Higgins",
+    "original_publication_year": 1987,
+    "title": "Watchmen",
+    "quantity": 1
+  },
+  {
+    "id": 192,
+    "book_id": 186074,
+    "isbn": "075640407X",
+    "authors": "Patrick Rothfuss",
+    "original_publication_year": 2007,
+    "title": "The Name of the Wind (The Kingkiller Chronicle, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 193,
+    "book_id": 3228917,
+    "isbn": 316017922,
+    "authors": "Malcolm Gladwell",
+    "original_publication_year": 2008,
+    "title": "Outliers: The Story of Success",
+    "quantity": 5
+  },
+  {
+    "id": 194,
+    "book_id": 153747,
+    "isbn": 142437247,
+    "authors": "Herman Melville, Andrew Delbanco, Tom Quirk",
+    "original_publication_year": 1851,
+    "title": "Moby-Dick or, The Whale",
+    "quantity": 4
+  },
+  {
+    "id": 195,
+    "book_id": 2728527,
+    "isbn": 385340990,
+    "authors": "Mary Ann Shaffer, Annie Barrows",
+    "original_publication_year": 2008,
+    "title": "The Guernsey Literary and Potato Peel Pie Society",
+    "quantity": 3
+  },
+  {
+    "id": 196,
+    "book_id": 5759,
+    "isbn": 393327345,
+    "authors": "Chuck Palahniuk",
+    "original_publication_year": 1996,
+    "title": "Fight Club",
+    "quantity": 2
+  },
+  {
+    "id": 197,
+    "book_id": 301082,
+    "isbn": 441008534,
+    "authors": "Charlaine Harris",
+    "original_publication_year": 2001,
+    "title": "Dead Until Dark (Sookie Stackhouse, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 198,
+    "book_id": 11486,
+    "isbn": 671727796,
+    "authors": "Alice Walker",
+    "original_publication_year": 1982,
+    "title": "The Color Purple",
+    "quantity": 0
+  },
+  {
+    "id": 199,
+    "book_id": 12691,
+    "isbn": 739461192,
+    "authors": "John Grogan",
+    "original_publication_year": 2005,
+    "title": "Marley and Me: Life and Love With the World's Worst Dog",
+    "quantity": 5
+  },
+  {
+    "id": 200,
+    "book_id": 16299,
+    "isbn": 312330871,
+    "authors": "Agatha Christie",
+    "original_publication_year": 1939,
+    "title": "And Then There Were None",
+    "quantity": 4
+  },
+  {
+    "id": 201,
+    "book_id": 6411961,
+    "isbn": 385504225,
+    "authors": "Dan Brown",
+    "original_publication_year": 2009,
+    "title": "The Lost Symbol (Robert Langdon, #3)",
+    "quantity": 3
+  },
+  {
+    "id": 202,
+    "book_id": 6339664,
+    "isbn": 1416989412,
+    "authors": "Becca Fitzpatrick",
+    "original_publication_year": 2009,
+    "title": "Hush, Hush (Hush, Hush, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 203,
+    "book_id": 11505797,
+    "isbn": "",
+    "authors": "Jamie McGuire",
+    "original_publication_year": 2011,
+    "title": "Beautiful Disaster (Beautiful, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 204,
+    "book_id": 5326,
+    "isbn": 1561797464,
+    "authors": "Charles Dickens",
+    "original_publication_year": 1843,
+    "title": "A Christmas Carol",
+    "quantity": 0
+  },
+  {
+    "id": 205,
+    "book_id": 43763,
+    "isbn": 345476875,
+    "authors": "Anne Rice",
+    "original_publication_year": 1976,
+    "title": "Interview with the Vampire (The Vampire Chronicles, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 206,
+    "book_id": 10507293,
+    "isbn": 62059939,
+    "authors": "Kiera Cass",
+    "original_publication_year": 2012,
+    "title": "The Selection (The Selection, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 207,
+    "book_id": 6853,
+    "isbn": 312362080,
+    "authors": "Janet Evanovich",
+    "original_publication_year": 1994,
+    "title": "One for the Money (Stephanie Plum, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 208,
+    "book_id": 6493208,
+    "isbn": 1400052173,
+    "authors": "Rebecca Skloot",
+    "original_publication_year": 2010,
+    "title": "The Immortal Life of Henrietta Lacks",
+    "quantity": 2
+  },
+  {
+    "id": 209,
+    "book_id": 23807,
+    "isbn": 99446782,
+    "authors": "Thomas Harris",
+    "original_publication_year": 1988,
+    "title": "The Silence of the Lambs  (Hannibal Lecter, #2)",
+    "quantity": 1
+  },
+  {
+    "id": 210,
+    "book_id": 345627,
+    "isbn": "159514174X",
+    "authors": "Richelle Mead",
+    "original_publication_year": 2007,
+    "title": "Vampire Academy (Vampire Academy, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 211,
+    "book_id": 40102,
+    "isbn": 316010669,
+    "authors": "Malcolm Gladwell",
+    "original_publication_year": 2005,
+    "title": "Blink: The Power of Thinking Without Thinking",
+    "quantity": 5
+  },
+  {
+    "id": 212,
+    "book_id": 6867,
+    "isbn": "038572179X",
+    "authors": "Ian McEwan",
+    "original_publication_year": 2001,
+    "title": "Atonement",
+    "quantity": 4
+  },
+  {
+    "id": 213,
+    "book_id": 485894,
+    "isbn": 553213695,
+    "authors": "Franz Kafka, Stanley Corngold",
+    "original_publication_year": 1915,
+    "title": "The Metamorphosis",
+    "quantity": 3
+  },
+  {
+    "id": 214,
+    "book_id": 561456,
+    "isbn": 141382899,
+    "authors": "Rick Riordan",
+    "original_publication_year": 2007,
+    "title": "The Titan's Curse (Percy Jackson and the Olympians, #3)",
+    "quantity": 2
+  },
+  {
+    "id": 215,
+    "book_id": 9969571,
+    "isbn": "030788743X",
+    "authors": "Ernest Cline",
+    "original_publication_year": 2011,
+    "title": "Ready Player One",
+    "quantity": 1
+  },
+  {
+    "id": 216,
+    "book_id": 3153910,
+    "isbn": 1554681723,
+    "authors": "Garth Stein",
+    "original_publication_year": 2006,
+    "title": "The Art of Racing in the Rain",
+    "quantity": 0
+  },
+  {
+    "id": 217,
+    "book_id": 21996,
+    "isbn": 739303406,
+    "authors": "Erik Larson, Tony Goldwyn",
+    "original_publication_year": 2003,
+    "title": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
+    "quantity": 5
+  },
+  {
+    "id": 218,
+    "book_id": 13572249,
+    "isbn": 425263908,
+    "authors": "Sylvia Day",
+    "original_publication_year": 2012,
+    "title": "Bared to You (Crossfire, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 219,
+    "book_id": 11127,
+    "isbn": 66238501,
+    "authors": "C.S. Lewis, Pauline Baynes",
+    "original_publication_year": 1956,
+    "title": "The Chronicles of Narnia (Chronicles of Narnia, #1-7)",
+    "quantity": 3
+  },
+  {
+    "id": 220,
+    "book_id": 3609760,
+    "isbn": 316043133,
+    "authors": "Mark Cotta Vaz",
+    "original_publication_year": "",
+    "title": "Twilight: The Complete Illustrated Movie Companion",
+    "quantity": 2
+  },
+  {
+    "id": 221,
+    "book_id": 60748,
+    "isbn": 1558743669,
+    "authors": "Dave Pelzer",
+    "original_publication_year": 1995,
+    "title": "A Child Called \"It\" (Dave Pelzer #1)",
+    "quantity": 1
+  },
+  {
+    "id": 222,
+    "book_id": 7869,
+    "isbn": 752864327,
+    "authors": "Robert Ludlum",
+    "original_publication_year": 1980,
+    "title": "The Bourne Identity (Jason Bourne, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 223,
+    "book_id": 249747,
+    "isbn": 786817879,
+    "authors": "Eoin Colfer",
+    "original_publication_year": 2001,
+    "title": "Artemis Fowl (Artemis Fowl, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 224,
+    "book_id": 6487308,
+    "isbn": 385738935,
+    "authors": "Lauren Kate",
+    "original_publication_year": 2009,
+    "title": "Fallen (Fallen, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 225,
+    "book_id": 4406,
+    "isbn": 142000655,
+    "authors": "John Steinbeck",
+    "original_publication_year": 1952,
+    "title": "East of Eden",
+    "quantity": 3
+  },
+  {
+    "id": 226,
+    "book_id": 5886881,
+    "isbn": 307341569,
+    "authors": "Gillian Flynn",
+    "original_publication_year": 2009,
+    "title": "Dark Places",
+    "quantity": 2
+  },
+  {
+    "id": 227,
+    "book_id": 5359,
+    "isbn": 385339089,
+    "authors": "John Grisham",
+    "original_publication_year": 1993,
+    "title": "The Client",
+    "quantity": 1
+  },
+  {
+    "id": 228,
+    "book_id": 228333,
+    "isbn": 312291639,
+    "authors": "Emma McLaughlin, Nicola Kraus",
+    "original_publication_year": 2002,
+    "title": "The Nanny Diaries (Nanny, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 229,
+    "book_id": 24213,
+    "isbn": 451527747,
+    "authors": "Lewis Carroll, John Tenniel, Martin Gardner",
+    "original_publication_year": 1865,
+    "title": "Alice's Adventures in Wonderland & Through the Looking-Glass",
+    "quantity": 5
+  },
+  {
+    "id": 230,
+    "book_id": 2156,
+    "isbn": 192802631,
+    "authors": "Jane Austen, James Kinsley, Deidre Shauna Lynch",
+    "original_publication_year": 1817,
+    "title": "Persuasion",
+    "quantity": 4
+  },
+  {
+    "id": 231,
+    "book_id": 556602,
+    "isbn": 312370830,
+    "authors": "Tatiana de Rosnay",
+    "original_publication_year": 2007,
+    "title": "Sarah's Key",
+    "quantity": 3
+  },
+  {
+    "id": 232,
+    "book_id": 43615,
+    "isbn": 452284694,
+    "authors": "Stephen King",
+    "original_publication_year": 1982,
+    "title": "The Gunslinger (The Dark Tower, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 233,
+    "book_id": 9712,
+    "isbn": "140003468X",
+    "authors": "Gabriel García Márquez, Edith Grossman",
+    "original_publication_year": 1985,
+    "title": "Love in the Time of Cholera",
+    "quantity": 1
+  },
+  {
+    "id": 234,
+    "book_id": 439288,
+    "isbn": "014131088X",
+    "authors": "Laurie Halse Anderson",
+    "original_publication_year": 1999,
+    "title": "Speak",
+    "quantity": 0
+  },
+  {
+    "id": 235,
+    "book_id": 17802724,
+    "isbn": 399159347,
+    "authors": "Liane Moriarty",
+    "original_publication_year": 2013,
+    "title": "The Husband's Secret",
+    "quantity": 5
+  },
+  {
+    "id": 236,
+    "book_id": 1898,
+    "isbn": 385494785,
+    "authors": "Jon Krakauer",
+    "original_publication_year": 1997,
+    "title": "Into Thin Air: A Personal Account of the Mount Everest Disaster",
+    "quantity": 4
+  },
+  {
+    "id": 237,
+    "book_id": 10592,
+    "isbn": 1416524304,
+    "authors": "Stephen King",
+    "original_publication_year": 1974,
+    "title": "Carrie",
+    "quantity": 3
+  },
+  {
+    "id": 238,
+    "book_id": 242006,
+    "isbn": "031242227X",
+    "authors": "Augusten Burroughs",
+    "original_publication_year": 2002,
+    "title": "Running with Scissors",
+    "quantity": 2
+  },
+  {
+    "id": 239,
+    "book_id": 8908,
+    "isbn": 307346609,
+    "authors": "Max Brooks",
+    "original_publication_year": 2006,
+    "title": "World War Z: An Oral History of the Zombie War",
+    "quantity": 1
+  },
+  {
+    "id": 240,
+    "book_id": 17212231,
+    "isbn": 385537859,
+    "authors": "Dan Brown",
+    "original_publication_year": 2013,
+    "title": "Inferno (Robert Langdon, #4)",
+    "quantity": 0
+  },
+  {
+    "id": 241,
+    "book_id": 47281,
+    "isbn": 440227534,
+    "authors": "Lois Lowry",
+    "original_publication_year": 1989,
+    "title": "Number the Stars",
+    "quantity": 5
+  },
+  {
+    "id": 242,
+    "book_id": 13145,
+    "isbn": 446692638,
+    "authors": "James Patterson",
+    "original_publication_year": 1993,
+    "title": "Along Came a Spider (Alex Cross, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 243,
+    "book_id": 10614,
+    "isbn": 450417395,
+    "authors": "Stephen King",
+    "original_publication_year": 1987,
+    "title": "Misery",
+    "quantity": 3
+  },
+  {
+    "id": 244,
+    "book_id": 66559,
+    "isbn": 307341542,
+    "authors": "Gillian Flynn",
+    "original_publication_year": 2006,
+    "title": "Sharp Objects",
+    "quantity": 2
+  },
+  {
+    "id": 245,
+    "book_id": 2839,
+    "isbn": 439366771,
+    "authors": "Katherine Paterson",
+    "original_publication_year": 1977,
+    "title": "Bridge to Terabithia",
+    "quantity": 1
+  },
+  {
+    "id": 246,
+    "book_id": 30183,
+    "isbn": 312360266,
+    "authors": "P.C. Cast, Kristin Cast",
+    "original_publication_year": 2007,
+    "title": "Marked (House of Night, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 247,
+    "book_id": 36072,
+    "isbn": 743269519,
+    "authors": "Stephen R. Covey",
+    "original_publication_year": 1989,
+    "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+    "quantity": 5
+  },
+  {
+    "id": 248,
+    "book_id": 1622,
+    "isbn": 743477545,
+    "authors": "William Shakespeare, Barbara A. Mowat, Paul Werstine, Catherine Belsey",
+    "original_publication_year": 1595,
+    "title": "A Midsummer Night's Dream",
+    "quantity": 4
+  },
+  {
+    "id": 249,
+    "book_id": 4588,
+    "isbn": 618711651,
+    "authors": "Jonathan Safran Foer",
+    "original_publication_year": 2005,
+    "title": "Extremely Loud and Incredibly Close",
+    "quantity": 3
+  },
+  {
+    "id": 250,
+    "book_id": 11387515,
+    "isbn": 375869026,
+    "authors": "R.J. Palacio",
+    "original_publication_year": 2012,
+    "title": "Wonder",
+    "quantity": 2
+  },
+  {
+    "id": 251,
+    "book_id": 233093,
+    "isbn": "039480001X",
+    "authors": "Dr. Seuss",
+    "original_publication_year": 1957,
+    "title": "The Cat in the Hat",
+    "quantity": 1
+  },
+  {
+    "id": 252,
+    "book_id": 11235712,
+    "isbn": 312641893,
+    "authors": "Marissa Meyer",
+    "original_publication_year": 2012,
+    "title": "Cinder (The Lunar Chronicles, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 253,
+    "book_id": 16160797,
+    "isbn": 316206849,
+    "authors": "Robert Galbraith, J.K. Rowling",
+    "original_publication_year": 2013,
+    "title": "The Cuckoo's Calling (Cormoran Strike, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 254,
+    "book_id": 6068551,
+    "isbn": 545123267,
+    "authors": "Maggie Stiefvater",
+    "original_publication_year": 2009,
+    "title": "Shiver (The Wolves of Mercy Falls, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 255,
+    "book_id": 662,
+    "isbn": 452011876,
+    "authors": "Ayn Rand, Leonard Peikoff",
+    "original_publication_year": 1957,
+    "title": "Atlas Shrugged",
+    "quantity": 3
+  },
+  {
+    "id": 256,
+    "book_id": 49436,
+    "isbn": 143038257,
+    "authors": "Greg Mortenson, David Oliver Relin",
+    "original_publication_year": 2006,
+    "title": "Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time",
+    "quantity": 2
+  },
+  {
+    "id": 257,
+    "book_id": 13023,
+    "isbn": 517223627,
+    "authors": "Jane Carruth, Lewis Carroll, Rene Cloke",
+    "original_publication_year": 1865,
+    "title": "Alice in Wonderland",
+    "quantity": 1
+  },
+  {
+    "id": 258,
+    "book_id": 1232,
+    "isbn": 143034901,
+    "authors": "Carlos Ruiz Zafón, Lucia Graves",
+    "original_publication_year": 2001,
+    "title": "The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)",
+    "quantity": 0
+  },
+  {
+    "id": 259,
+    "book_id": 7631105,
+    "isbn": 385738757,
+    "authors": "James Dashner",
+    "original_publication_year": 2010,
+    "title": "The Scorch Trials (Maze Runner, #2)",
+    "quantity": 5
+  },
+  {
+    "id": 260,
+    "book_id": 4865,
+    "isbn": "",
+    "authors": "Dale Carnegie",
+    "original_publication_year": 1936,
+    "title": "How to Win Friends and Influence People",
+    "quantity": 4
+  },
+  {
+    "id": 261,
+    "book_id": 480479,
+    "isbn": 767900383,
+    "authors": "Frances Mayes",
+    "original_publication_year": 1996,
+    "title": "Under the Tuscan Sun",
+    "quantity": 3
+  },
+  {
+    "id": 262,
+    "book_id": 19486412,
+    "isbn": 399167064,
+    "authors": "Liane Moriarty",
+    "original_publication_year": 2014,
+    "title": "Big Little Lies",
+    "quantity": 2
+  },
+  {
+    "id": 263,
+    "book_id": 24337,
+    "isbn": 590920685,
+    "authors": "Gail Carson Levine",
+    "original_publication_year": 1997,
+    "title": "Ella Enchanted",
+    "quantity": 1
+  },
+  {
+    "id": 264,
+    "book_id": 3876,
+    "isbn": 743297334,
+    "authors": "Ernest Hemingway",
+    "original_publication_year": 1926,
+    "title": "The Sun Also Rises",
+    "quantity": 0
+  },
+  {
+    "id": 265,
+    "book_id": 14891,
+    "isbn": 61120073,
+    "authors": "Betty  Smith",
+    "original_publication_year": 1943,
+    "title": "A Tree Grows in Brooklyn",
+    "quantity": 5
+  },
+  {
+    "id": 266,
+    "book_id": 13148,
+    "isbn": 446677388,
+    "authors": "James Patterson",
+    "original_publication_year": 1995,
+    "title": "Kiss the Girls (Alex Cross, #2)",
+    "quantity": 4
+  },
+  {
+    "id": 267,
+    "book_id": 21853621,
+    "isbn": 312577222,
+    "authors": "Kristin Hannah",
+    "original_publication_year": 2015,
+    "title": "The Nightingale",
+    "quantity": 3
+  },
+  {
+    "id": 268,
+    "book_id": 6334,
+    "isbn": 1400078776,
+    "authors": "Kazuo Ishiguro",
+    "original_publication_year": 2005,
+    "title": "Never Let Me Go",
+    "quantity": 2
+  },
+  {
+    "id": 269,
+    "book_id": 366522,
+    "isbn": 786890754,
+    "authors": "Cecelia Ahern",
+    "original_publication_year": 2003,
+    "title": "P.S. I Love You",
+    "quantity": 1
+  },
+  {
+    "id": 270,
+    "book_id": 12873,
+    "isbn": 1844080382,
+    "authors": "Daphne du Maurier, Sally Beauman",
+    "original_publication_year": 1938,
+    "title": "Rebecca",
+    "quantity": 0
+  },
+  {
+    "id": 271,
+    "book_id": 18373,
+    "isbn": 156030306,
+    "authors": "Daniel Keyes",
+    "original_publication_year": 1966,
+    "title": "Flowers for Algernon",
+    "quantity": 5
+  },
+  {
+    "id": 272,
+    "book_id": 6952,
+    "isbn": 552995878,
+    "authors": "Laura Esquivel, Thomas  Christensen, Carol Christensen",
+    "original_publication_year": 1989,
+    "title": "Like Water for Chocolate",
+    "quantity": 4
+  },
+  {
+    "id": 273,
+    "book_id": 1103,
+    "isbn": 812968069,
+    "authors": "Lisa See",
+    "original_publication_year": 2005,
+    "title": "Snow Flower and the Secret Fan",
+    "quantity": 3
+  },
+  {
+    "id": 274,
+    "book_id": 22034,
+    "isbn": 451205766,
+    "authors": "Mario Puzo, Robert Thompson, Peter Bart",
+    "original_publication_year": 1969,
+    "title": "The Godfather",
+    "quantity": 2
+  },
+  {
+    "id": 275,
+    "book_id": 49750,
+    "isbn": 525476881,
+    "authors": "John Green",
+    "original_publication_year": 2006,
+    "title": "An Abundance of Katherines",
+    "quantity": 1
+  },
+  {
+    "id": 276,
+    "book_id": 29579,
+    "isbn": 553803719,
+    "authors": "Isaac Asimov",
+    "original_publication_year": 1951,
+    "title": "Foundation (Foundation #1)",
+    "quantity": 0
+  },
+  {
+    "id": 277,
+    "book_id": 15783514,
+    "isbn": 62255657,
+    "authors": "Neil Gaiman",
+    "original_publication_year": 2013,
+    "title": "The Ocean at the End of the Lane",
+    "quantity": 5
+  },
+  {
+    "id": 278,
+    "book_id": 30118,
+    "isbn": 60513063,
+    "authors": "Shel Silverstein",
+    "original_publication_year": 1981,
+    "title": "A Light in the Attic",
+    "quantity": 4
+  },
+  {
+    "id": 279,
+    "book_id": 29056083,
+    "isbn": 751565350,
+    "authors": "John Tiffany, Jack Thorne, J.K. Rowling",
+    "original_publication_year": 2016,
+    "title": "Harry Potter and the Cursed Child - Parts One and Two (Harry Potter, #8)",
+    "quantity": 3
+  },
+  {
+    "id": 280,
+    "book_id": 11614718,
+    "isbn": 61726834,
+    "authors": "Lauren Oliver",
+    "original_publication_year": 2011,
+    "title": "Delirium (Delirium, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 281,
+    "book_id": 32499,
+    "isbn": 385339704,
+    "authors": "John Grisham",
+    "original_publication_year": 1992,
+    "title": "The Pelican Brief",
+    "quantity": 1
+  },
+  {
+    "id": 282,
+    "book_id": 17061,
+    "isbn": 61139378,
+    "authors": "Neil Gaiman",
+    "original_publication_year": 2002,
+    "title": "Coraline",
+    "quantity": 0
+  },
+  {
+    "id": 283,
+    "book_id": 12067,
+    "isbn": 60853980,
+    "authors": "Terry Pratchett, Neil Gaiman",
+    "original_publication_year": 1990,
+    "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",
+    "quantity": 5
+  },
+  {
+    "id": 284,
+    "book_id": 70401,
+    "isbn": 140042598,
+    "authors": "Jack Kerouac",
+    "original_publication_year": 1955,
+    "title": "On the Road",
+    "quantity": 4
+  },
+  {
+    "id": 285,
+    "book_id": 16181775,
+    "isbn": 1476729085,
+    "authors": "Graeme Simsion",
+    "original_publication_year": 2013,
+    "title": "The Rosie Project (Don Tillman, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 286,
+    "book_id": 3063499,
+    "isbn": 446579939,
+    "authors": "Nicholas Sparks",
+    "original_publication_year": 2008,
+    "title": "The Lucky One",
+    "quantity": 2
+  },
+  {
+    "id": 287,
+    "book_id": 2122,
+    "isbn": 451191153,
+    "authors": "Ayn Rand, Leonard Peikoff",
+    "original_publication_year": 1943,
+    "title": "The Fountainhead",
+    "quantity": 1
+  },
+  {
+    "id": 288,
+    "book_id": 19691,
+    "isbn": 425172902,
+    "authors": "Tom Clancy",
+    "original_publication_year": 1984,
+    "title": "The Hunt for Red October (Jack Ryan Universe, #4)",
+    "quantity": 0
+  },
+  {
+    "id": 289,
+    "book_id": 76620,
+    "isbn": "038039586X",
+    "authors": "Richard Adams",
+    "original_publication_year": 1972,
+    "title": "Watership Down (Watership Down, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 290,
+    "book_id": 10335308,
+    "isbn": 307886263,
+    "authors": "Mindy Kaling",
+    "original_publication_year": 2011,
+    "title": "Is Everyone Hanging Out Without Me? (And Other Concerns)",
+    "quantity": 4
+  },
+  {
+    "id": 291,
+    "book_id": 3591262,
+    "isbn": 375414495,
+    "authors": "Abraham Verghese",
+    "original_publication_year": 2009,
+    "title": "Cutting for Stone",
+    "quantity": 3
+  },
+  {
+    "id": 292,
+    "book_id": 140225,
+    "isbn": "006112527X",
+    "authors": "C.S. Lewis, Pauline Baynes",
+    "original_publication_year": 1951,
+    "title": "The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",
+    "quantity": 2
+  },
+  {
+    "id": 293,
+    "book_id": 295,
+    "isbn": 753453800,
+    "authors": "Robert Louis Stevenson",
+    "original_publication_year": 1882,
+    "title": "Treasure Island",
+    "quantity": 1
+  },
+  {
+    "id": 294,
+    "book_id": 9520360,
+    "isbn": 1423140591,
+    "authors": "Rick Riordan",
+    "original_publication_year": 2011,
+    "title": "The Son of Neptune (The Heroes of Olympus, #2)",
+    "quantity": 0
+  },
+  {
+    "id": 295,
+    "book_id": 10644930,
+    "isbn": 1451627289,
+    "authors": "Stephen King",
+    "original_publication_year": 2011,
+    "title": "11/22/1963",
+    "quantity": 5
+  },
+  {
+    "id": 296,
+    "book_id": 4948,
+    "isbn": 241003008,
+    "authors": "Eric Carle",
+    "original_publication_year": 1969,
+    "title": "The Very Hungry Caterpillar Board Book",
+    "quantity": 4
+  },
+  {
+    "id": 297,
+    "book_id": 135479,
+    "isbn": 140285601,
+    "authors": "Kurt Vonnegut Jr.",
+    "original_publication_year": 1963,
+    "title": "Cat's Cradle",
+    "quantity": 3
+  },
+  {
+    "id": 298,
+    "book_id": 2493,
+    "isbn": 451528557,
+    "authors": "H.G. Wells, Greg Bear, Carlo Pagetti",
+    "original_publication_year": 1895,
+    "title": "The Time Machine",
+    "quantity": 2
+  },
+  {
+    "id": 299,
+    "book_id": 7933292,
+    "isbn": 849946158,
+    "authors": "Todd Burpo, Lynn Vincent",
+    "original_publication_year": 2010,
+    "title": "Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back",
+    "quantity": 1
+  },
+  {
+    "id": 300,
+    "book_id": 39999,
+    "isbn": 385751060,
+    "authors": "John Boyne",
+    "original_publication_year": 2006,
+    "title": "The Boy in the Striped Pajamas",
+    "quantity": 0
+  },
+  {
+    "id": 301,
+    "book_id": 4900,
+    "isbn": 1892295490,
+    "authors": "Joseph Conrad",
+    "original_publication_year": 1899,
+    "title": "Heart of Darkness",
+    "quantity": 5
+  },
+  {
+    "id": 302,
+    "book_id": 7812659,
+    "isbn": "044654759X",
+    "authors": "Nicholas Sparks",
+    "original_publication_year": 2010,
+    "title": "Safe Haven",
+    "quantity": 4
+  },
+  {
+    "id": 303,
+    "book_id": 52529,
+    "isbn": 1582701709,
+    "authors": "Rhonda Byrne",
+    "original_publication_year": 2006,
+    "title": "The Secret (The Secret, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 304,
+    "book_id": 227711,
+    "isbn": 60987561,
+    "authors": "Wally Lamb",
+    "original_publication_year": 1998,
+    "title": "I Know This Much Is True",
+    "quantity": 2
+  },
+  {
+    "id": 305,
+    "book_id": 10583,
+    "isbn": 1416524347,
+    "authors": "Stephen King",
+    "original_publication_year": 1983,
+    "title": "Pet Sematary",
+    "quantity": 1
+  },
+  {
+    "id": 306,
+    "book_id": 5203,
+    "isbn": 671021001,
+    "authors": "Wally Lamb",
+    "original_publication_year": 1992,
+    "title": "She's Come Undone",
+    "quantity": 0
+  },
+  {
+    "id": 307,
+    "book_id": 1215032,
+    "isbn": 756404738,
+    "authors": "Patrick Rothfuss",
+    "original_publication_year": 2011,
+    "title": "The Wise Man's Fear (The Kingkiller Chronicle, #2)",
+    "quantity": 5
+  },
+  {
+    "id": 308,
+    "book_id": 33724,
+    "isbn": 440241901,
+    "authors": "Sophie Kinsella",
+    "original_publication_year": 2003,
+    "title": "Can You Keep a Secret?",
+    "quantity": 4
+  },
+  {
+    "id": 309,
+    "book_id": 6752378,
+    "isbn": 1442403543,
+    "authors": "Cassandra Clare",
+    "original_publication_year": 2011,
+    "title": "City of Fallen Angels (The Mortal Instruments, #4)",
+    "quantity": 3
+  },
+  {
+    "id": 310,
+    "book_id": 14748,
+    "isbn": 743418174,
+    "authors": "Jennifer Weiner",
+    "original_publication_year": 2001,
+    "title": "Good in Bed (Cannie Shapiro, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 311,
+    "book_id": 3412,
+    "isbn": 380018179,
+    "authors": "Colleen McCullough",
+    "original_publication_year": 1977,
+    "title": "The Thorn Birds",
+    "quantity": 1
+  },
+  {
+    "id": 312,
+    "book_id": 2213661,
+    "isbn": 60530928,
+    "authors": "Neil Gaiman, Dave McKean",
+    "original_publication_year": 2008,
+    "title": "The Graveyard Book",
+    "quantity": 0
+  },
+  {
+    "id": 313,
+    "book_id": 13158800,
+    "isbn": 1451681739,
+    "authors": "M.L. Stedman",
+    "original_publication_year": 2012,
+    "title": "The Light Between Oceans",
+    "quantity": 5
+  },
+  {
+    "id": 314,
+    "book_id": 28194,
+    "isbn": 439709105,
+    "authors": "Cornelia Funke, Anthea Bell",
+    "original_publication_year": 2003,
+    "title": "Inkheart (Inkworld, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 315,
+    "book_id": 4894,
+    "isbn": 91883768,
+    "authors": "Spencer Johnson, Kenneth H. Blanchard",
+    "original_publication_year": 1998,
+    "title": "Who Moved My Cheese?",
+    "quantity": 3
+  },
+  {
+    "id": 316,
+    "book_id": 9791,
+    "isbn": 307279464,
+    "authors": "Bill Bryson",
+    "original_publication_year": 1997,
+    "title": "A Walk in the Woods",
+    "quantity": 2
+  },
+  {
+    "id": 317,
+    "book_id": 13214,
+    "isbn": 553279378,
+    "authors": "Maya Angelou",
+    "original_publication_year": 1969,
+    "title": "I Know Why the Caged Bird Sings",
+    "quantity": 1
+  },
+  {
+    "id": 318,
+    "book_id": 15818107,
+    "isbn": 61950726,
+    "authors": "Christina Baker Kline",
+    "original_publication_year": 2013,
+    "title": "Orphan Train",
+    "quantity": 0
+  },
+  {
+    "id": 319,
+    "book_id": 8755776,
+    "isbn": 1442416866,
+    "authors": "Cassandra Clare",
+    "original_publication_year": 2012,
+    "title": "City of Lost Souls (The Mortal Instruments, #5)",
+    "quantity": 5
+  },
+  {
+    "id": 320,
+    "book_id": 13526165,
+    "isbn": 316204277,
+    "authors": "Maria Semple",
+    "original_publication_year": 2012,
+    "title": "Where'd You Go, Bernadette",
+    "quantity": 4
+  },
+  {
+    "id": 321,
+    "book_id": 10365,
+    "isbn": 375806814,
+    "authors": "Wilson Rawls",
+    "original_publication_year": 1961,
+    "title": "Where the Red Fern Grows",
+    "quantity": 3
+  },
+  {
+    "id": 322,
+    "book_id": 14497,
+    "isbn": 60557818,
+    "authors": "Neil Gaiman",
+    "original_publication_year": 1996,
+    "title": "Neverwhere",
+    "quantity": 2
+  },
+  {
+    "id": 323,
+    "book_id": 9717,
+    "isbn": 571224385,
+    "authors": "Milan Kundera, Michael Henry Heim",
+    "original_publication_year": 1984,
+    "title": "The Unbearable Lightness of Being",
+    "quantity": 1
+  },
+  {
+    "id": 324,
+    "book_id": 16068905,
+    "isbn": "",
+    "authors": "Rainbow Rowell",
+    "original_publication_year": 2013,
+    "title": "Fangirl",
+    "quantity": 0
+  },
+  {
+    "id": 325,
+    "book_id": 4473,
+    "isbn": 552135399,
+    "authors": "John Irving",
+    "original_publication_year": 1989,
+    "title": "A Prayer for Owen Meany",
+    "quantity": 5
+  },
+  {
+    "id": 326,
+    "book_id": 32234,
+    "isbn": 316182540,
+    "authors": "Janet Fitch",
+    "original_publication_year": 1999,
+    "title": "White Oleander",
+    "quantity": 4
+  },
+  {
+    "id": 327,
+    "book_id": 9275658,
+    "isbn": "039925675X",
+    "authors": "Marie Lu",
+    "original_publication_year": 2011,
+    "title": "Legend (Legend, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 328,
+    "book_id": 14866,
+    "isbn": 743496728,
+    "authors": "Jodi Picoult",
+    "original_publication_year": 2007,
+    "title": "Nineteen Minutes",
+    "quantity": 2
+  },
+  {
+    "id": 329,
+    "book_id": 2318271,
+    "isbn": 1401323251,
+    "authors": "Randy Pausch, Jeffrey Zaslow",
+    "original_publication_year": 2008,
+    "title": "The Last Lecture",
+    "quantity": 1
+  },
+  {
+    "id": 330,
+    "book_id": 228665,
+    "isbn": 812511816,
+    "authors": "Robert Jordan",
+    "original_publication_year": 1990,
+    "title": "The Eye of the World (Wheel of Time, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 331,
+    "book_id": 10916,
+    "isbn": 61150142,
+    "authors": "Jodi Picoult",
+    "original_publication_year": 1998,
+    "title": "The Pact",
+    "quantity": 5
+  },
+  {
+    "id": 332,
+    "book_id": 65605,
+    "isbn": 60764902,
+    "authors": "C.S. Lewis",
+    "original_publication_year": 1953,
+    "title": "The Magician's Nephew (Chronicles of Narnia, #6)",
+    "quantity": 4
+  },
+  {
+    "id": 333,
+    "book_id": 2153405,
+    "isbn": 595440096,
+    "authors": "Lisa Genova",
+    "original_publication_year": 2007,
+    "title": "Still Alice",
+    "quantity": 3
+  },
+  {
+    "id": 334,
+    "book_id": 13596809,
+    "isbn": 425263916,
+    "authors": "Sylvia Day",
+    "original_publication_year": 2012,
+    "title": "Reflected in You (Crossfire, #2)",
+    "quantity": 2
+  },
+  {
+    "id": 335,
+    "book_id": 6689,
+    "isbn": 375814248,
+    "authors": "Roald Dahl, Quentin Blake",
+    "original_publication_year": 1961,
+    "title": "James and the Giant Peach",
+    "quantity": 1
+  },
+  {
+    "id": 336,
+    "book_id": 13137,
+    "isbn": 446696617,
+    "authors": "James Patterson",
+    "original_publication_year": 2001,
+    "title": "1st to Die (Women's Murder Club, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 337,
+    "book_id": 13,
+    "isbn": 345453743,
+    "authors": "Douglas Adams",
+    "original_publication_year": 1996,
+    "title": "The Ultimate Hitchhiker's Guide to the Galaxy",
+    "quantity": 5
+  },
+  {
+    "id": 338,
+    "book_id": 6280118,
+    "isbn": 340896965,
+    "authors": "David Nicholls",
+    "original_publication_year": 2009,
+    "title": "One Day",
+    "quantity": 4
+  },
+  {
+    "id": 339,
+    "book_id": 32929,
+    "isbn": 60775858,
+    "authors": "Margaret Wise Brown, Clement Hurd",
+    "original_publication_year": 1947,
+    "title": "Goodnight Moon",
+    "quantity": 3
+  },
+  {
+    "id": 340,
+    "book_id": 7747374,
+    "isbn": 61969559,
+    "authors": "Pittacus Lore",
+    "original_publication_year": 2010,
+    "title": "I Am Number Four (Lorien Legacies, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 341,
+    "book_id": 1371,
+    "isbn": 140275363,
+    "authors": "Homer, Robert Fagles, Frédéric Mugler, Bernard Knox",
+    "original_publication_year": -750,
+    "title": "The Iliad",
+    "quantity": 1
+  },
+  {
+    "id": 342,
+    "book_id": 13497818,
+    "isbn": 316228532,
+    "authors": "J.K. Rowling",
+    "original_publication_year": 2012,
+    "title": "The Casual Vacancy",
+    "quantity": 0
+  },
+  {
+    "id": 343,
+    "book_id": 24192,
+    "isbn": 385339690,
+    "authors": "John Grisham",
+    "original_publication_year": 1996,
+    "title": "The Runaway Jury",
+    "quantity": 5
+  },
+  {
+    "id": 344,
+    "book_id": 4138,
+    "isbn": 316777730,
+    "authors": "David Sedaris",
+    "original_publication_year": 1997,
+    "title": "Naked",
+    "quantity": 4
+  },
+  {
+    "id": 345,
+    "book_id": 45978,
+    "isbn": 375840400,
+    "authors": "Christopher Paolini",
+    "original_publication_year": 2005,
+    "title": "Eldest (The Inheritance Cycle, #2)",
+    "quantity": 3
+  },
+  {
+    "id": 346,
+    "book_id": 236093,
+    "isbn": 140621679,
+    "authors": "L. Frank Baum, W.W. Denslow",
+    "original_publication_year": 1900,
+    "title": "The Wonderful Wizard of Oz (Oz, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 347,
+    "book_id": 121749,
+    "isbn": "000720230X",
+    "authors": "C.S. Lewis",
+    "original_publication_year": 1951,
+    "title": "Prince Caspian (Chronicles of Narnia, #2)",
+    "quantity": 1
+  },
+  {
+    "id": 348,
+    "book_id": 16143347,
+    "isbn": "",
+    "authors": "E. Lockhart",
+    "original_publication_year": 2014,
+    "title": "We Were Liars",
+    "quantity": 0
+  },
+  {
+    "id": 349,
+    "book_id": 11590,
+    "isbn": 450031063,
+    "authors": "Stephen King",
+    "original_publication_year": 1975,
+    "title": "'Salem's Lot",
+    "quantity": 5
+  },
+  {
+    "id": 350,
+    "book_id": 7745,
+    "isbn": 679785892,
+    "authors": "Hunter S. Thompson, Ralph Steadman",
+    "original_publication_year": 1971,
+    "title": "Fear and Loathing in Las Vegas",
+    "quantity": 4
+  },
+  {
+    "id": 351,
+    "book_id": 10025305,
+    "isbn": 1416975888,
+    "authors": "Cassandra Clare",
+    "original_publication_year": 2011,
+    "title": "Clockwork Prince (The Infernal Devices, #2)",
+    "quantity": 3
+  },
+  {
+    "id": 352,
+    "book_id": 20910157,
+    "isbn": 62268341,
+    "authors": "Amy Poehler",
+    "original_publication_year": 2014,
+    "title": "Yes Please",
+    "quantity": 2
+  },
+  {
+    "id": 353,
+    "book_id": 12996,
+    "isbn": 743477553,
+    "authors": "William Shakespeare",
+    "original_publication_year": 1603,
+    "title": "Othello",
+    "quantity": 1
+  },
+  {
+    "id": 354,
+    "book_id": 6149,
+    "isbn": 1400033411,
+    "authors": "Toni Morrison",
+    "original_publication_year": 1987,
+    "title": "Beloved",
+    "quantity": 0
+  },
+  {
+    "id": 355,
+    "book_id": 3236307,
+    "isbn": "015206396X",
+    "authors": "Kristin Cashore",
+    "original_publication_year": 2008,
+    "title": "Graceling (Graceling Realm, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 356,
+    "book_id": 78411,
+    "isbn": 439206472,
+    "authors": "Lemony Snicket, Brett Helquist",
+    "original_publication_year": 1999,
+    "title": "The Bad Beginning (A Series of Unfortunate Events, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 357,
+    "book_id": 355697,
+    "isbn": 449213943,
+    "authors": "Erich Maria Remarque, A.W. Wheen",
+    "original_publication_year": 1929,
+    "title": "All Quiet on the Western Front",
+    "quantity": 3
+  },
+  {
+    "id": 358,
+    "book_id": 191139,
+    "isbn": 679805273,
+    "authors": "Dr. Seuss",
+    "original_publication_year": 1990,
+    "title": "Oh, The Places You'll Go!",
+    "quantity": 2
+  },
+  {
+    "id": 359,
+    "book_id": 16115612,
+    "isbn": "159463176X",
+    "authors": "Khaled Hosseini",
+    "original_publication_year": 2012,
+    "title": "And the Mountains Echoed",
+    "quantity": 1
+  },
+  {
+    "id": 360,
+    "book_id": 7082,
+    "isbn": 345404475,
+    "authors": "Philip K. Dick, Roger Zelazny",
+    "original_publication_year": 1968,
+    "title": "Do Androids Dream of Electric Sheep?",
+    "quantity": 0
+  },
+  {
+    "id": 361,
+    "book_id": 18254,
+    "isbn": 141439742,
+    "authors": "Charles Dickens, George Cruikshank, Philip Horne",
+    "original_publication_year": 1838,
+    "title": "Oliver Twist",
+    "quantity": 5
+  },
+  {
+    "id": 362,
+    "book_id": 11149,
+    "isbn": 60652896,
+    "authors": "C.S. Lewis",
+    "original_publication_year": 1942,
+    "title": "The Screwtape Letters",
+    "quantity": 4
+  },
+  {
+    "id": 363,
+    "book_id": 6936382,
+    "isbn": 525423273,
+    "authors": "Stephanie Perkins",
+    "original_publication_year": 2010,
+    "title": "Anna and the French Kiss (Anna and the French Kiss, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 364,
+    "book_id": 113946,
+    "isbn": 7173040,
+    "authors": "Dr. Seuss",
+    "original_publication_year": 1957,
+    "title": "How the Grinch Stole Christmas!",
+    "quantity": 2
+  },
+  {
+    "id": 365,
+    "book_id": 5805,
+    "isbn": 1401207928,
+    "authors": "Alan Moore, David   Lloyd",
+    "original_publication_year": 1990,
+    "title": "V for Vendetta",
+    "quantity": 1
+  },
+  {
+    "id": 366,
+    "book_id": 2203,
+    "isbn": 743223136,
+    "authors": "David McCullough",
+    "original_publication_year": 2001,
+    "title": "John Adams",
+    "quantity": 0
+  },
+  {
+    "id": 367,
+    "book_id": 14995,
+    "isbn": 553384287,
+    "authors": "Dean Koontz",
+    "original_publication_year": 2003,
+    "title": "Odd Thomas (Odd Thomas, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 368,
+    "book_id": 119324,
+    "isbn": 679879250,
+    "authors": "Philip Pullman",
+    "original_publication_year": 1997,
+    "title": "The Subtle Knife (His Dark Materials, #2)",
+    "quantity": 4
+  },
+  {
+    "id": 369,
+    "book_id": 22232,
+    "isbn": 439488400,
+    "authors": "Jerry Spinelli",
+    "original_publication_year": 2000,
+    "title": "Stargirl (Stargirl, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 370,
+    "book_id": 7090447,
+    "isbn": 1423113381,
+    "authors": "Rick Riordan",
+    "original_publication_year": 2010,
+    "title": "The Red Pyramid (Kane Chronicles, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 371,
+    "book_id": 350,
+    "isbn": 441788386,
+    "authors": "Robert A. Heinlein",
+    "original_publication_year": 1961,
+    "title": "Stranger in a Strange Land",
+    "quantity": 1
+  },
+  {
+    "id": 372,
+    "book_id": 10176,
+    "isbn": 965904830,
+    "authors": "David Sedaris",
+    "original_publication_year": 2004,
+    "title": "Dress Your Family in Corduroy and Denim",
+    "quantity": 0
+  },
+  {
+    "id": 373,
+    "book_id": 6319,
+    "isbn": 141311371,
+    "authors": "Roald Dahl, Quentin Blake",
+    "original_publication_year": 1982,
+    "title": "The BFG",
+    "quantity": 5
+  },
+  {
+    "id": 374,
+    "book_id": 21,
+    "isbn": "076790818X",
+    "authors": "Bill Bryson",
+    "original_publication_year": 2003,
+    "title": "A Short History of Nearly Everything",
+    "quantity": 4
+  },
+  {
+    "id": 375,
+    "book_id": 1852,
+    "isbn": 439227143,
+    "authors": "Jack London",
+    "original_publication_year": 1903,
+    "title": "The Call of the Wild",
+    "quantity": 3
+  },
+  {
+    "id": 376,
+    "book_id": 7864437,
+    "isbn": 385738773,
+    "authors": "James Dashner",
+    "original_publication_year": 2011,
+    "title": "The Death Cure (Maze Runner, #3)",
+    "quantity": 2
+  },
+  {
+    "id": 377,
+    "book_id": 16793,
+    "isbn": 61142026,
+    "authors": "Neil Gaiman",
+    "original_publication_year": 1999,
+    "title": "Stardust",
+    "quantity": 1
+  },
+  {
+    "id": 378,
+    "book_id": 33917,
+    "isbn": 618485228,
+    "authors": "Jhumpa Lahiri",
+    "original_publication_year": 2003,
+    "title": "The Namesake",
+    "quantity": 0
+  },
+  {
+    "id": 379,
+    "book_id": 8667848,
+    "isbn": 670022411,
+    "authors": "Deborah Harkness",
+    "original_publication_year": 2011,
+    "title": "A Discovery of Witches (All Souls Trilogy, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 380,
+    "book_id": 11297,
+    "isbn": 375704027,
+    "authors": "Haruki Murakami, Jay Rubin",
+    "original_publication_year": 1987,
+    "title": "Norwegian Wood",
+    "quantity": 4
+  },
+  {
+    "id": 381,
+    "book_id": 5168,
+    "isbn": 446672211,
+    "authors": "Billie Letts",
+    "original_publication_year": 1995,
+    "title": "Where the Heart Is",
+    "quantity": 3
+  },
+  {
+    "id": 382,
+    "book_id": 6567017,
+    "isbn": 525421580,
+    "authors": "John Green, David Levithan",
+    "original_publication_year": 2010,
+    "title": "Will Grayson, Will Grayson",
+    "quantity": 2
+  },
+  {
+    "id": 383,
+    "book_id": 1241,
+    "isbn": 307276902,
+    "authors": "James Frey",
+    "original_publication_year": 2003,
+    "title": "A Million Little Pieces",
+    "quantity": 1
+  },
+  {
+    "id": 384,
+    "book_id": 2282133,
+    "isbn": 1595141758,
+    "authors": "Richelle Mead",
+    "original_publication_year": 2008,
+    "title": "Frostbite (Vampire Academy, #2)",
+    "quantity": 0
+  },
+  {
+    "id": 385,
+    "book_id": 8520610,
+    "isbn": 307352145,
+    "authors": "Susan Cain",
+    "original_publication_year": 2012,
+    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    "quantity": 5
+  },
+  {
+    "id": 386,
+    "book_id": 233818,
+    "isbn": 440439884,
+    "authors": "Scott O'Dell",
+    "original_publication_year": 1960,
+    "title": "Island of the Blue Dolphins (Island of the Blue Dolphins, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 387,
+    "book_id": 17250,
+    "isbn": 142437336,
+    "authors": "Arthur Miller, Christopher Bigsby",
+    "original_publication_year": 1953,
+    "title": "The Crucible",
+    "quantity": 3
+  },
+  {
+    "id": 388,
+    "book_id": 50,
+    "isbn": 689840926,
+    "authors": "Gary Paulsen",
+    "original_publication_year": 1986,
+    "title": "Hatchet (Brian's Saga, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 389,
+    "book_id": 68428,
+    "isbn": "076531178X",
+    "authors": "Brandon Sanderson",
+    "original_publication_year": 2006,
+    "title": "The Final Empire (Mistborn, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 390,
+    "book_id": 51496,
+    "isbn": 451528956,
+    "authors": "Robert Louis Stevenson, Vladimir Nabokov, Mervyn Peake, Dan Chaon",
+    "original_publication_year": 1886,
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "quantity": 0
+  },
+  {
+    "id": 391,
+    "book_id": 7784,
+    "isbn": 679889108,
+    "authors": "Dr. Seuss",
+    "original_publication_year": 1971,
+    "title": "The Lorax",
+    "quantity": 5
+  },
+  {
+    "id": 392,
+    "book_id": 389627,
+    "isbn": 810993139,
+    "authors": "Jeff Kinney",
+    "original_publication_year": 2004,
+    "title": "Diary of a Wimpy Kid (Diary of a Wimpy Kid, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 393,
+    "book_id": 7896527,
+    "isbn": 1599906953,
+    "authors": "Sarah J. Maas",
+    "original_publication_year": 2012,
+    "title": "Throne of Glass (Throne of Glass, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 394,
+    "book_id": 2802316,
+    "isbn": 1595141979,
+    "authors": "Richelle Mead",
+    "original_publication_year": 2008,
+    "title": "Shadow Kiss (Vampire Academy, #3)",
+    "quantity": 2
+  },
+  {
+    "id": 395,
+    "book_id": 46170,
+    "isbn": 684803356,
+    "authors": "Ernest Hemingway",
+    "original_publication_year": 1940,
+    "title": "For Whom the Bell Tolls",
+    "quantity": 1
+  },
+  {
+    "id": 396,
+    "book_id": 3367956,
+    "isbn": 345505336,
+    "authors": "Jamie Ford",
+    "original_publication_year": 2009,
+    "title": "Hotel on the Corner of Bitter and Sweet",
+    "quantity": 0
+  },
+  {
+    "id": 397,
+    "book_id": 343,
+    "isbn": 140120831,
+    "authors": "Patrick Süskind, John E. Woods",
+    "original_publication_year": 1985,
+    "title": "Perfume: The Story of a Murderer",
+    "quantity": 5
+  },
+  {
+    "id": 398,
+    "book_id": 1097,
+    "isbn": 60838582,
+    "authors": "Eric Schlosser",
+    "original_publication_year": 2001,
+    "title": "Fast Food Nation: The Dark Side of the All-American Meal",
+    "quantity": 4
+  },
+  {
+    "id": 399,
+    "book_id": 3950967,
+    "isbn": 747599874,
+    "authors": "J.K. Rowling",
+    "original_publication_year": 2007,
+    "title": "The Tales of Beedle the Bard",
+    "quantity": 3
+  },
+  {
+    "id": 400,
+    "book_id": 22328,
+    "isbn": 441569595,
+    "authors": "William Gibson",
+    "original_publication_year": 1984,
+    "title": "Neuromancer",
+    "quantity": 2
+  },
+  {
+    "id": 401,
+    "book_id": 10799,
+    "isbn": 99910101,
+    "authors": "Ernest Hemingway",
+    "original_publication_year": 1929,
+    "title": "A Farewell to Arms",
+    "quantity": 1
+  },
+  {
+    "id": 402,
+    "book_id": 391729,
+    "isbn": 553212281,
+    "authors": "Edgar Allan Poe",
+    "original_publication_year": 1843,
+    "title": "The Tell-Tale Heart and Other Writings",
+    "quantity": 0
+  },
+  {
+    "id": 403,
+    "book_id": 10534,
+    "isbn": 1590302257,
+    "authors": "Sun Tzu, Thomas Cleary",
+    "original_publication_year": -500,
+    "title": "The Art of War",
+    "quantity": 5
+  },
+  {
+    "id": 404,
+    "book_id": 11367726,
+    "isbn": 385344228,
+    "authors": "William Landay",
+    "original_publication_year": 2012,
+    "title": "Defending Jacob",
+    "quantity": 4
+  },
+  {
+    "id": 405,
+    "book_id": 4980,
+    "isbn": 385334206,
+    "authors": "Kurt Vonnegut Jr.",
+    "original_publication_year": 1973,
+    "title": "Breakfast of Champions",
+    "quantity": 3
+  },
+  {
+    "id": 406,
+    "book_id": 627206,
+    "isbn": 874774241,
+    "authors": "Betty Edwards",
+    "original_publication_year": 1979,
+    "title": "The New Drawing on the Right Side of the Brain",
+    "quantity": 2
+  },
+  {
+    "id": 407,
+    "book_id": 5826,
+    "isbn": 60838728,
+    "authors": "Ann Patchett",
+    "original_publication_year": 2001,
+    "title": "Bel Canto",
+    "quantity": 1
+  },
+  {
+    "id": 408,
+    "book_id": 1842,
+    "isbn": 739467352,
+    "authors": "Jared Diamond",
+    "original_publication_year": 1997,
+    "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+    "quantity": 0
+  },
+  {
+    "id": 409,
+    "book_id": 9375,
+    "isbn": 375508414,
+    "authors": "Fannie Flagg",
+    "original_publication_year": 1987,
+    "title": "Fried Green Tomatoes at the Whistle Stop Cafe",
+    "quantity": 5
+  },
+  {
+    "id": 410,
+    "book_id": 37781,
+    "isbn": 385474547,
+    "authors": "Chinua Achebe",
+    "original_publication_year": 1958,
+    "title": "Things Fall Apart (The African Trilogy, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 411,
+    "book_id": 33722,
+    "isbn": 385338694,
+    "authors": "Sophie Kinsella",
+    "original_publication_year": 2005,
+    "title": "The Undomestic Goddess",
+    "quantity": 3
+  },
+  {
+    "id": 412,
+    "book_id": 567795,
+    "isbn": 1881273156,
+    "authors": "Gary Chapman",
+    "original_publication_year": 1990,
+    "title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+    "quantity": 2
+  },
+  {
+    "id": 413,
+    "book_id": 7190,
+    "isbn": "",
+    "authors": "Alexandre Dumas",
+    "original_publication_year": 1844,
+    "title": "The Three Musketeers",
+    "quantity": 1
+  },
+  {
+    "id": 414,
+    "book_id": 6948436,
+    "isbn": 1416589643,
+    "authors": "Chris Cleave",
+    "original_publication_year": 2008,
+    "title": "Little Bee",
+    "quantity": 0
+  },
+  {
+    "id": 415,
+    "book_id": 3975774,
+    "isbn": "031253275X",
+    "authors": "Alyson Noel",
+    "original_publication_year": 2009,
+    "title": "Evermore (The Immortals, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 416,
+    "book_id": 6327,
+    "isbn": 590032496,
+    "authors": "Roald Dahl, Quentin Blake",
+    "original_publication_year": 1983,
+    "title": "The Witches",
+    "quantity": 4
+  },
+  {
+    "id": 417,
+    "book_id": 40440,
+    "isbn": 743298020,
+    "authors": "Diane Setterfield",
+    "original_publication_year": 2006,
+    "title": "The Thirteenth Tale",
+    "quantity": 3
+  },
+  {
+    "id": 418,
+    "book_id": 6479259,
+    "isbn": 1595142509,
+    "authors": "Richelle Mead",
+    "original_publication_year": 2010,
+    "title": "Spirit Bound (Vampire Academy, #5)",
+    "quantity": 2
+  },
+  {
+    "id": 419,
+    "book_id": 5996153,
+    "isbn": 1595141987,
+    "authors": "Richelle Mead",
+    "original_publication_year": 2009,
+    "title": "Blood Promise (Vampire Academy, #4)",
+    "quantity": 1
+  },
+  {
+    "id": 420,
+    "book_id": 3478,
+    "isbn": 446676071,
+    "authors": "Nicholas Sparks",
+    "original_publication_year": 1998,
+    "title": "Message in a Bottle",
+    "quantity": 0
+  },
+  {
+    "id": 421,
+    "book_id": 8683812,
+    "isbn": 345521307,
+    "authors": "Paula McLain",
+    "original_publication_year": 2011,
+    "title": "The Paris Wife",
+    "quantity": 5
+  },
+  {
+    "id": 422,
+    "book_id": 862041,
+    "isbn": 545044251,
+    "authors": "J.K. Rowling",
+    "original_publication_year": 1998,
+    "title": "Harry Potter Boxset (Harry Potter, #1-7)",
+    "quantity": 4
+  },
+  {
+    "id": 423,
+    "book_id": 16248068,
+    "isbn": 62059963,
+    "authors": "Kiera Cass",
+    "original_publication_year": 2013,
+    "title": "The Elite (The Selection, #2)",
+    "quantity": 3
+  },
+  {
+    "id": 424,
+    "book_id": 119073,
+    "isbn": 156001314,
+    "authors": "Umberto Eco, William Weaver, Seán Barrett",
+    "original_publication_year": 1980,
+    "title": "The Name of the Rose",
+    "quantity": 2
+  },
+  {
+    "id": 425,
+    "book_id": 46799,
+    "isbn": 1416914633,
+    "authors": "Beatrice Sparks, Anonymous",
+    "original_publication_year": 1971,
+    "title": "Go Ask Alice",
+    "quantity": 1
+  },
+  {
+    "id": 426,
+    "book_id": 310612,
+    "isbn": 802130208,
+    "authors": "John Kennedy Toole, Walker Percy",
+    "original_publication_year": 1980,
+    "title": "A Confederacy of Dunces",
+    "quantity": 0
+  },
+  {
+    "id": 427,
+    "book_id": 92303,
+    "isbn": "158049580X",
+    "authors": "Oscar Wilde",
+    "original_publication_year": 1895,
+    "title": "The Importance of Being Earnest",
+    "quantity": 5
+  },
+  {
+    "id": 428,
+    "book_id": 12127750,
+    "isbn": 1423140605,
+    "authors": "Rick Riordan",
+    "original_publication_year": 2012,
+    "title": "The Mark of Athena (The Heroes of Olympus, #3)",
+    "quantity": 4
+  },
+  {
+    "id": 429,
+    "book_id": 34497,
+    "isbn": 60855924,
+    "authors": "Terry Pratchett",
+    "original_publication_year": 1983,
+    "title": "The Color of Magic (Discworld, #1; Rincewind #1)",
+    "quantity": 3
+  },
+  {
+    "id": 430,
+    "book_id": 4929,
+    "isbn": 1400079276,
+    "authors": "Haruki Murakami, Philip Gabriel",
+    "original_publication_year": 2002,
+    "title": "Kafka on the Shore",
+    "quantity": 2
+  },
+  {
+    "id": 431,
+    "book_id": 28877,
+    "isbn": 525945563,
+    "authors": "Thomas Harris",
+    "original_publication_year": 1981,
+    "title": "Red Dragon (Hannibal Lecter, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 432,
+    "book_id": 41804,
+    "isbn": 553803700,
+    "authors": "Isaac Asimov",
+    "original_publication_year": 1950,
+    "title": "I, Robot (Robot #0.1)",
+    "quantity": 0
+  },
+  {
+    "id": 433,
+    "book_id": 42899,
+    "isbn": 451216954,
+    "authors": "J.R. Ward",
+    "original_publication_year": 2005,
+    "title": "Dark Lover (Black Dagger Brotherhood, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 434,
+    "book_id": 7791997,
+    "isbn": 1416989439,
+    "authors": "Becca Fitzpatrick",
+    "original_publication_year": 2010,
+    "title": "Crescendo (Hush, Hush, #2)",
+    "quantity": 4
+  },
+  {
+    "id": 435,
+    "book_id": 6482837,
+    "isbn": 61726818,
+    "authors": "Lauren Oliver",
+    "original_publication_year": 2010,
+    "title": "Before I Fall",
+    "quantity": 3
+  },
+  {
+    "id": 436,
+    "book_id": 9777,
+    "isbn": 679457313,
+    "authors": "Arundhati Roy",
+    "original_publication_year": 1997,
+    "title": "The God of Small Things",
+    "quantity": 2
+  },
+  {
+    "id": 437,
+    "book_id": 18079776,
+    "isbn": 670024783,
+    "authors": "Sue Monk Kidd",
+    "original_publication_year": 2014,
+    "title": "The Invention of Wings",
+    "quantity": 1
+  },
+  {
+    "id": 438,
+    "book_id": 6469165,
+    "isbn": 141043768,
+    "authors": "Liane Moriarty",
+    "original_publication_year": 2009,
+    "title": "What Alice Forgot",
+    "quantity": 0
+  },
+  {
+    "id": 439,
+    "book_id": 3869,
+    "isbn": 553380168,
+    "authors": "Stephen Hawking, Cao Chi, Phạm Văn Thiều",
+    "original_publication_year": 1987,
+    "title": "A Brief History of Time",
+    "quantity": 5
+  },
+  {
+    "id": 440,
+    "book_id": 7315573,
+    "isbn": 525951652,
+    "authors": "Ken Follett",
+    "original_publication_year": 2010,
+    "title": "Fall of Giants (The Century Trilogy, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 441,
+    "book_id": 6320534,
+    "isbn": 1439148503,
+    "authors": "Stephen King",
+    "original_publication_year": 2009,
+    "title": "Under the Dome",
+    "quantity": 3
+  },
+  {
+    "id": 442,
+    "book_id": 830,
+    "isbn": 553380958,
+    "authors": "Neal Stephenson",
+    "original_publication_year": 1992,
+    "title": "Snow Crash",
+    "quantity": 2
+  },
+  {
+    "id": 443,
+    "book_id": 51738,
+    "isbn": 670061050,
+    "authors": "Sarah Dessen",
+    "original_publication_year": 2006,
+    "title": "Just Listen",
+    "quantity": 1
+  },
+  {
+    "id": 444,
+    "book_id": 99107,
+    "isbn": 525467564,
+    "authors": "A.A. Milne, Ernest H. Shepard",
+    "original_publication_year": 1926,
+    "title": "Winnie-the-Pooh (Winnie-the-Pooh, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 445,
+    "book_id": 9736930,
+    "isbn": 62060554,
+    "authors": "S.J. Watson",
+    "original_publication_year": 2011,
+    "title": "Before I Go to Sleep",
+    "quantity": 5
+  },
+  {
+    "id": 446,
+    "book_id": 102868,
+    "isbn": 1420925539,
+    "authors": "Arthur Conan Doyle",
+    "original_publication_year": 1887,
+    "title": "A Study in Scarlet",
+    "quantity": 4
+  },
+  {
+    "id": 447,
+    "book_id": 2248573,
+    "isbn": 375826726,
+    "authors": "Christopher Paolini",
+    "original_publication_year": 2008,
+    "title": "Brisingr (The Inheritance Cycle, #3)",
+    "quantity": 3
+  },
+  {
+    "id": 448,
+    "book_id": 56495,
+    "isbn": 310276993,
+    "authors": "Rick Warren",
+    "original_publication_year": 2002,
+    "title": "The Purpose Driven Life: What on Earth Am I Here for?",
+    "quantity": 2
+  },
+  {
+    "id": 449,
+    "book_id": 676924,
+    "isbn": 312360282,
+    "authors": "P.C. Cast, Kristin Cast",
+    "original_publication_year": 2007,
+    "title": "Betrayed (House of Night, #2)",
+    "quantity": 1
+  },
+  {
+    "id": 450,
+    "book_id": 47212,
+    "isbn": 451457811,
+    "authors": "Jim Butcher",
+    "original_publication_year": 2000,
+    "title": "Storm Front (The Dresden Files, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 451,
+    "book_id": 50398,
+    "isbn": 1593082649,
+    "authors": "Jane Austen, Alfred MacAdam",
+    "original_publication_year": 1817,
+    "title": "Northanger Abbey",
+    "quantity": 5
+  },
+  {
+    "id": 452,
+    "book_id": 16101128,
+    "isbn": 399162410,
+    "authors": "Rick Yancey",
+    "original_publication_year": 2013,
+    "title": "The 5th Wave (The 5th Wave, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 453,
+    "book_id": 10920,
+    "isbn": 802142842,
+    "authors": "Charles Frazier",
+    "original_publication_year": 1997,
+    "title": "Cold Mountain",
+    "quantity": 3
+  },
+  {
+    "id": 454,
+    "book_id": 767680,
+    "isbn": 60245867,
+    "authors": "Laura Joffe Numeroff, Felicia Bond",
+    "original_publication_year": 1985,
+    "title": "If You Give a Mouse a Cookie",
+    "quantity": 2
+  },
+  {
+    "id": 455,
+    "book_id": 42155,
+    "isbn": 312323867,
+    "authors": "Emily Giffin",
+    "original_publication_year": 2005,
+    "title": "Something Blue (Darcy & Rachel, #2)",
+    "quantity": 1
+  },
+  {
+    "id": 456,
+    "book_id": 12220,
+    "isbn": 822210894,
+    "authors": "Tennessee Williams",
+    "original_publication_year": 1947,
+    "title": "A Streetcar Named Desire",
+    "quantity": 0
+  },
+  {
+    "id": 457,
+    "book_id": 10692,
+    "isbn": 751537284,
+    "authors": "Elizabeth Kostova",
+    "original_publication_year": 2005,
+    "title": "The Historian",
+    "quantity": 5
+  },
+  {
+    "id": 458,
+    "book_id": 20170404,
+    "isbn": 385353308,
+    "authors": "Emily St. John Mandel",
+    "original_publication_year": 2014,
+    "title": "Station Eleven",
+    "quantity": 4
+  },
+  {
+    "id": 459,
+    "book_id": 18774964,
+    "isbn": 1476738017,
+    "authors": "Fredrik Backman, Henning Koch",
+    "original_publication_year": 2012,
+    "title": "A Man Called Ove",
+    "quantity": 3
+  },
+  {
+    "id": 460,
+    "book_id": 18335634,
+    "isbn": 1406321346,
+    "authors": "Cassandra Clare",
+    "original_publication_year": 2013,
+    "title": "Clockwork Princess (The Infernal Devices, #3)",
+    "quantity": 2
+  },
+  {
+    "id": 461,
+    "book_id": 1078,
+    "isbn": 1416500189,
+    "authors": "Pearl S. Buck",
+    "original_publication_year": 1931,
+    "title": "The Good Earth (House of Earth, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 462,
+    "book_id": 2784,
+    "isbn": 140135154,
+    "authors": "John Berger",
+    "original_publication_year": 1972,
+    "title": "Ways of Seeing",
+    "quantity": 0
+  },
+  {
+    "id": 463,
+    "book_id": 5364,
+    "isbn": 385335970,
+    "authors": "Diana Gabaldon",
+    "original_publication_year": 1992,
+    "title": "Dragonfly in Amber (Outlander, #2)",
+    "quantity": 5
+  },
+  {
+    "id": 464,
+    "book_id": 1923820,
+    "isbn": "",
+    "authors": "Anonymous",
+    "original_publication_year": 1611,
+    "title": "Holy Bible: King James Version",
+    "quantity": 4
+  },
+  {
+    "id": 465,
+    "book_id": 14758,
+    "isbn": 743495667,
+    "authors": "Jennifer Weiner",
+    "original_publication_year": 2002,
+    "title": "In Her Shoes",
+    "quantity": 3
+  },
+  {
+    "id": 466,
+    "book_id": 659469,
+    "isbn": 345368584,
+    "authors": "Chuck Dixon, J.R.R. Tolkien, David Wenzel, Sean Deming",
+    "original_publication_year": 1989,
+    "title": "The Hobbit: Graphic Novel",
+    "quantity": 2
+  },
+  {
+    "id": 467,
+    "book_id": 297673,
+    "isbn": 1594489580,
+    "authors": "Junot Díaz",
+    "original_publication_year": 2007,
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "quantity": 1
+  },
+  {
+    "id": 468,
+    "book_id": 37415,
+    "isbn": 61120065,
+    "authors": "Zora Neale Hurston",
+    "original_publication_year": 1937,
+    "title": "Their Eyes Were Watching God",
+    "quantity": 0
+  },
+  {
+    "id": 469,
+    "book_id": 41899,
+    "isbn": 439321603,
+    "authors": "Newt Scamander, J.K. Rowling, Albus Dumbledore",
+    "original_publication_year": 2001,
+    "title": "Fantastic Beasts and Where to Find Them",
+    "quantity": 5
+  },
+  {
+    "id": 470,
+    "book_id": 17851885,
+    "isbn": 316322407,
+    "authors": "Malala Yousafzai, Christina Lamb",
+    "original_publication_year": 2012,
+    "title": "I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban",
+    "quantity": 4
+  },
+  {
+    "id": 471,
+    "book_id": 45032,
+    "isbn": 141439807,
+    "authors": "Jane Austen, Kathryn Sutherland, Tony Tanner, Claire Lamont",
+    "original_publication_year": 1814,
+    "title": "Mansfield Park",
+    "quantity": 3
+  },
+  {
+    "id": 472,
+    "book_id": 4069,
+    "isbn": "080701429X",
+    "authors": "Viktor E. Frankl",
+    "original_publication_year": 1946,
+    "title": "Man's Search for Meaning",
+    "quantity": 2
+  },
+  {
+    "id": 473,
+    "book_id": 237209,
+    "isbn": 670038601,
+    "authors": "Tana French",
+    "original_publication_year": 2007,
+    "title": "In the Woods (Dublin Murder Squad, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 474,
+    "book_id": 14743,
+    "isbn": 618680004,
+    "authors": "Richard Dawkins",
+    "original_publication_year": 2006,
+    "title": "The God Delusion",
+    "quantity": 0
+  },
+  {
+    "id": 475,
+    "book_id": 8492825,
+    "isbn": 525422943,
+    "authors": "Gayle Forman",
+    "original_publication_year": 2011,
+    "title": "Where She Went (If I Stay, #2)",
+    "quantity": 5
+  },
+  {
+    "id": 476,
+    "book_id": 7069,
+    "isbn": 345915593,
+    "authors": "John Irving",
+    "original_publication_year": 1978,
+    "title": "The World According to Garp",
+    "quantity": 4
+  },
+  {
+    "id": 477,
+    "book_id": 78129,
+    "isbn": 515141429,
+    "authors": "Lee Child",
+    "original_publication_year": 1997,
+    "title": "Killing Floor (Jack Reacher, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 478,
+    "book_id": 2932,
+    "isbn": 375757325,
+    "authors": "Daniel Defoe, Gerald McCann, Virginia Woolf",
+    "original_publication_year": 1719,
+    "title": "Robinson Crusoe",
+    "quantity": 2
+  },
+  {
+    "id": 479,
+    "book_id": 28862,
+    "isbn": 937832383,
+    "authors": "Niccolò Machiavelli, Adolph Caso, Rufus Goodwin, Benjamin Martinez",
+    "original_publication_year": 1513,
+    "title": "The Prince",
+    "quantity": 1
+  },
+  {
+    "id": 480,
+    "book_id": 18122,
+    "isbn": 440238153,
+    "authors": "Philip Pullman",
+    "original_publication_year": 2000,
+    "title": "The Amber Spyglass (His Dark Materials, #3)",
+    "quantity": 0
+  },
+  {
+    "id": 481,
+    "book_id": 43889,
+    "isbn": 765346524,
+    "authors": "Terry Goodkind",
+    "original_publication_year": 1994,
+    "title": "Wizard's First Rule (Sword of Truth, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 482,
+    "book_id": 6837103,
+    "isbn": 1439153663,
+    "authors": "Kathleen Grissom",
+    "original_publication_year": 2010,
+    "title": "The Kitchen House",
+    "quantity": 4
+  },
+  {
+    "id": 483,
+    "book_id": 5113,
+    "isbn": 316769029,
+    "authors": "J.D. Salinger",
+    "original_publication_year": 1961,
+    "title": "Franny and Zooey",
+    "quantity": 3
+  },
+  {
+    "id": 484,
+    "book_id": 29059,
+    "isbn": 385720920,
+    "authors": "Chuck Palahniuk",
+    "original_publication_year": 2001,
+    "title": "Choke",
+    "quantity": 2
+  },
+  {
+    "id": 485,
+    "book_id": 4934,
+    "isbn": 374528373,
+    "authors": "Fyodor Dostoyevsky, Richard Pevear, Larissa Volokhonsky",
+    "original_publication_year": 1880,
+    "title": "The Brothers Karamazov",
+    "quantity": 1
+  },
+  {
+    "id": 486,
+    "book_id": 307791,
+    "isbn": 375822747,
+    "authors": "Jeanne DuPrau",
+    "original_publication_year": 2003,
+    "title": "The City of Ember (Book of Ember, #1)",
+    "quantity": 0
+  },
+  {
+    "id": 487,
+    "book_id": 7670,
+    "isbn": 60541814,
+    "authors": "Michael Crichton",
+    "original_publication_year": 1969,
+    "title": "The Andromeda Strain",
+    "quantity": 5
+  },
+  {
+    "id": 488,
+    "book_id": 11566,
+    "isbn": 451933028,
+    "authors": "Stephen King",
+    "original_publication_year": 1996,
+    "title": "The Green Mile",
+    "quantity": 4
+  },
+  {
+    "id": 489,
+    "book_id": 2547,
+    "isbn": "000100039X",
+    "authors": "Kahlil Gibran",
+    "original_publication_year": 1923,
+    "title": "The Prophet",
+    "quantity": 3
+  },
+  {
+    "id": 490,
+    "book_id": 15196,
+    "isbn": 394541553,
+    "authors": "Art Spiegelman",
+    "original_publication_year": 1985,
+    "title": "Maus I: A Survivor's Tale: My Father Bleeds History (Maus, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 491,
+    "book_id": 2866718,
+    "isbn": 312379838,
+    "authors": "P.C. Cast, Kristin Cast",
+    "original_publication_year": 2008,
+    "title": "Untamed (House of Night, #4)",
+    "quantity": 1
+  },
+  {
+    "id": 492,
+    "book_id": 7967,
+    "isbn": 812550757,
+    "authors": "Orson Scott Card",
+    "original_publication_year": 1986,
+    "title": "Speaker for the Dead (Ender's Saga, #2)",
+    "quantity": 0
+  },
+  {
+    "id": 493,
+    "book_id": 11138,
+    "isbn": 684823780,
+    "authors": "C.S. Lewis",
+    "original_publication_year": 1952,
+    "title": "Mere Christianity",
+    "quantity": 5
+  },
+  {
+    "id": 494,
+    "book_id": 29044,
+    "isbn": 1400031702,
+    "authors": "Donna Tartt",
+    "original_publication_year": 1992,
+    "title": "The Secret History",
+    "quantity": 4
+  },
+  {
+    "id": 495,
+    "book_id": 4953,
+    "isbn": 375725784,
+    "authors": "Dave Eggers",
+    "original_publication_year": 2000,
+    "title": "A Heartbreaking Work of Staggering Genius",
+    "quantity": 3
+  },
+  {
+    "id": 496,
+    "book_id": 1295,
+    "isbn": 553381679,
+    "authors": "Jean M. Auel",
+    "original_publication_year": 1980,
+    "title": "The Clan of the Cave Bear (Earth's Children, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 497,
+    "book_id": 3685,
+    "isbn": 439228905,
+    "authors": "Anna Sewell",
+    "original_publication_year": 1877,
+    "title": "Black Beauty",
+    "quantity": 1
+  },
+  {
+    "id": 498,
+    "book_id": 656,
+    "isbn": 192833987,
+    "authors": "Leo Tolstoy, Henry Gifford, Aylmer Maude, Louise Maude",
+    "original_publication_year": 1869,
+    "title": "War and Peace",
+    "quantity": 0
+  },
+  {
+    "id": 499,
+    "book_id": 28676,
+    "isbn": 679735771,
+    "authors": "Bret Easton Ellis",
+    "original_publication_year": 1991,
+    "title": "American Psycho",
+    "quantity": 5
+  },
+  {
+    "id": 500,
+    "book_id": 38980,
+    "isbn": 613371658,
+    "authors": "Meg Cabot",
+    "original_publication_year": 2000,
+    "title": "The Princess Diaries (The Princess Diaries, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 501,
+    "book_id": 7061,
+    "isbn": 1400034779,
+    "authors": "Alexander McCall Smith",
+    "original_publication_year": 1998,
+    "title": "The No. 1 Ladies' Detective Agency  (No. 1 Ladies' Detective Agency, #1)",
+    "quantity": 3
+  },
+  {
+    "id": 502,
+    "book_id": 138398,
+    "isbn": 1582406723,
+    "authors": "Robert Kirkman, Tony Moore",
+    "original_publication_year": 2004,
+    "title": "The Walking Dead, Vol. 01: Days Gone Bye",
+    "quantity": 2
+  },
+  {
+    "id": 503,
+    "book_id": 70535,
+    "isbn": 451457994,
+    "authors": "Arthur C. Clarke",
+    "original_publication_year": 1968,
+    "title": "2001: A Space Odyssey (Space Odyssey, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 504,
+    "book_id": 11422,
+    "isbn": 1590525132,
+    "authors": "Francine Rivers",
+    "original_publication_year": 1991,
+    "title": "Redeeming Love",
+    "quantity": 0
+  },
+  {
+    "id": 505,
+    "book_id": 27523,
+    "isbn": 842342702,
+    "authors": "Tim LaHaye, Jerry B. Jenkins",
+    "original_publication_year": 1995,
+    "title": "Left Behind (Left Behind, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 506,
+    "book_id": 18635016,
+    "isbn": 62059998,
+    "authors": "Kiera Cass",
+    "original_publication_year": 2014,
+    "title": "The One (The Selection, #3)",
+    "quantity": 4
+  },
+  {
+    "id": 507,
+    "book_id": 7938275,
+    "isbn": 545265355,
+    "authors": "Suzanne Collins",
+    "original_publication_year": 2010,
+    "title": "The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",
+    "quantity": 3
+  },
+  {
+    "id": 508,
+    "book_id": 1869,
+    "isbn": 805063897,
+    "authors": "Barbara Ehrenreich",
+    "original_publication_year": 2001,
+    "title": "Nickel and Dimed: On (Not) Getting By in America",
+    "quantity": 2
+  },
+  {
+    "id": 509,
+    "book_id": 1358844,
+    "isbn": 593053893,
+    "authors": "Sophie Kinsella",
+    "original_publication_year": 2008,
+    "title": "Remember Me?",
+    "quantity": 1
+  },
+  {
+    "id": 510,
+    "book_id": 233649,
+    "isbn": 812517725,
+    "authors": "Robert Jordan",
+    "original_publication_year": 1990,
+    "title": "The Great Hunt (Wheel of Time, #2)",
+    "quantity": 0
+  },
+  {
+    "id": 511,
+    "book_id": 6534,
+    "isbn": 743477154,
+    "authors": "Patricia Cornwell",
+    "original_publication_year": 1990,
+    "title": "Postmortem (Kay Scarpetta, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 512,
+    "book_id": 23919,
+    "isbn": 385074077,
+    "authors": "Edgar Allan Poe",
+    "original_publication_year": 1849,
+    "title": "The Complete Stories and Poems",
+    "quantity": 4
+  },
+  {
+    "id": 513,
+    "book_id": 561909,
+    "isbn": 553256696,
+    "authors": "Corrie ten Boom, John Sherrill, Elizabeth Sherrill",
+    "original_publication_year": 1971,
+    "title": "The Hiding Place: The Triumphant True Story of Corrie Ten Boom",
+    "quantity": 3
+  },
+  {
+    "id": 514,
+    "book_id": 3590,
+    "isbn": 192835084,
+    "authors": "Arthur Conan Doyle",
+    "original_publication_year": 1892,
+    "title": "The Adventures of Sherlock Holmes",
+    "quantity": 2
+  },
+  {
+    "id": 515,
+    "book_id": 16735,
+    "isbn": 553381547,
+    "authors": "Pat Conroy",
+    "original_publication_year": 1986,
+    "title": "The Prince of Tides",
+    "quantity": 1
+  },
+  {
+    "id": 516,
+    "book_id": 3985,
+    "isbn": 312282990,
+    "authors": "Michael Chabon",
+    "original_publication_year": 2000,
+    "title": "The Amazing Adventures of Kavalier & Clay",
+    "quantity": 0
+  },
+  {
+    "id": 517,
+    "book_id": 4268157,
+    "isbn": 802798233,
+    "authors": "Simone Elkeles",
+    "original_publication_year": 2008,
+    "title": "Perfect Chemistry (Perfect Chemistry, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 518,
+    "book_id": 34268,
+    "isbn": 805072454,
+    "authors": "J.M. Barrie, Michael Hague",
+    "original_publication_year": 1904,
+    "title": "Peter Pan",
+    "quantity": 4
+  },
+  {
+    "id": 519,
+    "book_id": 24768,
+    "isbn": 689865392,
+    "authors": "Scott Westerfeld",
+    "original_publication_year": 2005,
+    "title": "Pretties (Uglies, #2)",
+    "quantity": 3
+  },
+  {
+    "id": 520,
+    "book_id": 11275,
+    "isbn": 965341984,
+    "authors": "Haruki Murakami, Jay Rubin",
+    "original_publication_year": 1994,
+    "title": "The Wind-Up Bird Chronicle",
+    "quantity": 2
+  },
+  {
+    "id": 521,
+    "book_id": 79885,
+    "isbn": 739465511,
+    "authors": "Michael Connelly",
+    "original_publication_year": 2005,
+    "title": "The Lincoln Lawyer (Mickey Haller, #1; Harry Bosch Universe, #16)",
+    "quantity": 1
+  },
+  {
+    "id": 522,
+    "book_id": 49628,
+    "isbn": 375507256,
+    "authors": "David Mitchell",
+    "original_publication_year": 2004,
+    "title": "Cloud Atlas",
+    "quantity": 0
+  },
+  {
+    "id": 523,
+    "book_id": 133518,
+    "isbn": 767902890,
+    "authors": "Tim O'Brien",
+    "original_publication_year": 1990,
+    "title": "The Things They Carried",
+    "quantity": 5
+  },
+  {
+    "id": 524,
+    "book_id": 114683,
+    "isbn": 1844137872,
+    "authors": "Banksy",
+    "original_publication_year": 1988,
+    "title": "Wall and Piece",
+    "quantity": 4
+  },
+  {
+    "id": 525,
+    "book_id": 9593911,
+    "isbn": "006197806X",
+    "authors": "Lauren Oliver",
+    "original_publication_year": 2012,
+    "title": "Pandemonium (Delirium, #2)",
+    "quantity": 3
+  },
+  {
+    "id": 526,
+    "book_id": 17231,
+    "isbn": 307277887,
+    "authors": "Jeff Lindsay",
+    "original_publication_year": 2004,
+    "title": "Darkly Dreaming Dexter (Dexter, #1)",
+    "quantity": 2
+  },
+  {
+    "id": 527,
+    "book_id": 110494,
+    "isbn": 1841493007,
+    "authors": "Charlaine Harris",
+    "original_publication_year": 2002,
+    "title": "Living Dead in Dallas (Sookie Stackhouse, #2)",
+    "quantity": 1
+  },
+  {
+    "id": 528,
+    "book_id": 34897,
+    "isbn": 765305119,
+    "authors": "Robert Jordan",
+    "original_publication_year": 1991,
+    "title": "The Dragon Reborn (Wheel of Time, #3)",
+    "quantity": 0
+  },
+  {
+    "id": 529,
+    "book_id": 7733,
+    "isbn": 141439491,
+    "authors": "Jonathan Swift, Robert DeMaria Jr.",
+    "original_publication_year": 1726,
+    "title": "Gulliver's Travels",
+    "quantity": 5
+  },
+  {
+    "id": 530,
+    "book_id": 12957,
+    "isbn": 743482751,
+    "authors": "William Shakespeare, Barbara A. Mowat, Paul Werstine, Gail Kern Paster, Robert          Jackson",
+    "original_publication_year": 1598,
+    "title": "Much Ado About Nothing",
+    "quantity": 4
+  },
+  {
+    "id": 531,
+    "book_id": 52357,
+    "isbn": 393320979,
+    "authors": "Unknown, Seamus Heaney",
+    "original_publication_year": 975,
+    "title": "Beowulf",
+    "quantity": 3
+  },
+  {
+    "id": 532,
+    "book_id": 59980,
+    "isbn": 1401207529,
+    "authors": "Frank Miller, David Mazzucchelli, Richmond Lewis, Dennis O'Neil",
+    "original_publication_year": 1987,
+    "title": "Batman: Year One",
+    "quantity": 2
+  },
+  {
+    "id": 533,
+    "book_id": 24817626,
+    "isbn": 62409859,
+    "authors": "Harper Lee",
+    "original_publication_year": 2015,
+    "title": "Go Set a Watchman",
+    "quantity": 1
+  },
+  {
+    "id": 534,
+    "book_id": 1044355,
+    "isbn": 316143472,
+    "authors": "David Sedaris",
+    "original_publication_year": 2008,
+    "title": "When You Are Engulfed in Flames",
+    "quantity": 0
+  },
+  {
+    "id": 535,
+    "book_id": 8490112,
+    "isbn": 316134023,
+    "authors": "Laini Taylor",
+    "original_publication_year": 2011,
+    "title": "Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",
+    "quantity": 5
+  },
+  {
+    "id": 536,
+    "book_id": 17878931,
+    "isbn": 1409151174,
+    "authors": "Victoria Aveyard",
+    "original_publication_year": 2015,
+    "title": "Red Queen (Red Queen, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 537,
+    "book_id": 12609433,
+    "isbn": 1400069289,
+    "authors": "Charles Duhigg",
+    "original_publication_year": 2011,
+    "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+    "quantity": 3
+  },
+  {
+    "id": 538,
+    "book_id": 386187,
+    "isbn": 679751521,
+    "authors": "John Berendt",
+    "original_publication_year": 1994,
+    "title": "Midnight in the Garden of Good and Evil",
+    "quantity": 2
+  },
+  {
+    "id": 539,
+    "book_id": 15717943,
+    "isbn": 1301949825,
+    "authors": "Colleen Hoover",
+    "original_publication_year": 2012,
+    "title": "Hopeless (Hopeless, #1)",
+    "quantity": 1
+  },
+  {
+    "id": 540,
+    "book_id": 3008,
+    "isbn": 142437018,
+    "authors": "Frances Hodgson Burnett, Nancy Bond",
+    "original_publication_year": 1905,
+    "title": "A Little Princess",
+    "quantity": 0
+  },
+  {
+    "id": 541,
+    "book_id": 51737,
+    "isbn": 142406252,
+    "authors": "Sarah Dessen",
+    "original_publication_year": 2004,
+    "title": "The Truth About Forever",
+    "quantity": 5
+  },
+  {
+    "id": 542,
+    "book_id": 84119,
+    "isbn": 439861365,
+    "authors": "C.S. Lewis",
+    "original_publication_year": 1954,
+    "title": "The Horse and His Boy (Chronicles of Narnia, #5)",
+    "quantity": 4
+  },
+  {
+    "id": 543,
+    "book_id": 6527740,
+    "isbn": 1595143068,
+    "authors": "Richelle Mead",
+    "original_publication_year": 2010,
+    "title": "Last Sacrifice (Vampire Academy, #6)",
+    "quantity": 3
+  },
+  {
+    "id": 544,
+    "book_id": 77767,
+    "isbn": 64400026,
+    "authors": "Laura Ingalls Wilder, Garth Williams",
+    "original_publication_year": 1935,
+    "title": "Little House on the Prairie (Little House, #2)",
+    "quantity": 2
+  },
+  {
+    "id": 545,
+    "book_id": 144974,
+    "isbn": 380002558,
+    "authors": "Margery Williams Bianco, William   Nicholson",
+    "original_publication_year": 1922,
+    "title": "The Velveteen Rabbit",
+    "quantity": 1
+  },
+  {
+    "id": 546,
+    "book_id": 629,
+    "isbn": 60589469,
+    "authors": "Robert M. Pirsig",
+    "original_publication_year": 1974,
+    "title": "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values",
+    "quantity": 0
+  },
+  {
+    "id": 547,
+    "book_id": 8909,
+    "isbn": 375759239,
+    "authors": "H.G. Wells, Arthur C. Clarke",
+    "original_publication_year": 1897,
+    "title": "The War of the Worlds",
+    "quantity": 5
+  },
+  {
+    "id": 548,
+    "book_id": 162085,
+    "isbn": 60887303,
+    "authors": "Sara Shepard",
+    "original_publication_year": 2006,
+    "title": "Pretty Little Liars (Pretty Little Liars, #1)",
+    "quantity": 4
+  },
+  {
+    "id": 549,
+    "book_id": 231850,
+    "isbn": 670241334,
+    "authors": "Don Freeman",
+    "original_publication_year": 1948,
+    "title": "Corduroy",
+    "quantity": 3
+  },
+  {
+    "id": 550,
+    "book_id": 3109,
+    "isbn": 1594200823,
+    "authors": "Michael Pollan",
+    "original_publication_year": 2006,
+    "title": "The Omnivore's Dilemma: A Natural History of Four Meals",
+    "quantity": 2
+  },
+  {
+    "id": 551,
+    "book_id": 15790842,
+    "isbn": 316176486,
+    "authors": "Kate Atkinson",
+    "original_publication_year": 2013,
+    "title": "Life After Life",
+    "quantity": 1
+  },
+  {
+    "id": 552,
+    "book_id": 3462,
+    "isbn": 446696129,
+    "authors": "Nicholas Sparks",
+    "original_publication_year": 2000,
+    "title": "The Rescue",
+    "quantity": 0
+  },
+  {
+    "id": 553,
+    "book_id": 107291,
+    "isbn": "045057458X",
+    "authors": "Stephen King",
+    "original_publication_year": 1991,
+    "title": "Needful Things",
+    "quantity": 5
+  },
+  {
+    "id": 554,
+    "book_id": 10987,
+    "isbn": 385335997,
+    "authors": "Diana Gabaldon",
+    "original_publication_year": 1993,
+    "title": "Voyager (Outlander, #3)",
+    "quantity": 4
+  },
+  {
+    "id": 555,
+    "book_id": 117251,
+    "isbn": 393315053,
+    "authors": "Kenneth Branagh, William Shakespeare",
+    "original_publication_year": 1996,
+    "title": "Hamlet: Screenplay, Introduction And Film Diary",
+    "quantity": 3
+  }
+  ]
