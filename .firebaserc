@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "prod": "angular-5e33d",
+    "default": "angular-5e33d"
+  }
+}
